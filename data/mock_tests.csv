@@ -1,0 +1,2501 @@
+student_id,test_no,subject,topic,score,test_date
+1,1,Data Structures,Arrays,48,2026-10-06
+1,2,Algorithms,Dynamic Programming,37,2026-10-11
+1,3,Operating Systems,Memory Management,75,2026-10-16
+1,4,Algorithms,Sorting,48,2026-10-21
+1,5,Operating Systems,Memory Management,61,2026-10-26
+2,1,Algorithms,Sorting,41,2026-10-06
+2,2,Algorithms,Searching,43,2026-10-11
+2,3,Computer Networks,TCP/IP,35,2026-10-16
+2,4,Algorithms,Dynamic Programming,36,2026-10-21
+2,5,Algorithms,Searching,35,2026-10-26
+3,1,Data Structures,Trees,80,2026-10-06
+3,2,Data Structures,Trees,70,2026-10-11
+3,3,Operating Systems,Scheduling,41,2026-10-16
+3,4,Computer Networks,OSI Model,50,2026-10-21
+3,5,Data Structures,Graphs,79,2026-10-26
+4,1,Operating Systems,Scheduling,99,2026-10-06
+4,2,DBMS,SQL,47,2026-10-11
+4,3,Computer Networks,OSI Model,88,2026-10-16
+4,4,DBMS,Transactions,75,2026-10-21
+4,5,Algorithms,Searching,75,2026-10-26
+5,1,Data Structures,Arrays,59,2026-10-06
+5,2,DBMS,Normalization,96,2026-10-11
+5,3,Computer Networks,OSI Model,62,2026-10-16
+5,4,Computer Networks,OSI Model,93,2026-10-21
+5,5,Algorithms,Dynamic Programming,85,2026-10-26
+6,1,Operating Systems,Scheduling,67,2026-10-06
+6,2,Computer Networks,Routing,34,2026-10-11
+6,3,Operating Systems,Scheduling,45,2026-10-16
+6,4,Data Structures,Graphs,65,2026-10-21
+6,5,Computer Networks,Routing,81,2026-10-26
+7,1,Computer Networks,OSI Model,32,2026-10-06
+7,2,Operating Systems,Deadlock,95,2026-10-11
+7,3,Computer Networks,TCP/IP,60,2026-10-16
+7,4,DBMS,Normalization,25,2026-10-21
+7,5,Algorithms,Sorting,32,2026-10-26
+8,1,Algorithms,Sorting,25,2026-10-06
+8,2,Data Structures,Arrays,90,2026-10-11
+8,3,DBMS,SQL,70,2026-10-16
+8,4,Data Structures,Graphs,99,2026-10-21
+8,5,Computer Networks,OSI Model,38,2026-10-26
+9,1,Data Structures,Trees,69,2026-10-06
+9,2,Operating Systems,Deadlock,85,2026-10-11
+9,3,Computer Networks,OSI Model,40,2026-10-16
+9,4,Operating Systems,Deadlock,58,2026-10-21
+9,5,Operating Systems,Scheduling,84,2026-10-26
+10,1,Operating Systems,Scheduling,37,2026-10-06
+10,2,Data Structures,Graphs,63,2026-10-11
+10,3,Computer Networks,OSI Model,79,2026-10-16
+10,4,Computer Networks,Routing,77,2026-10-21
+10,5,DBMS,Normalization,54,2026-10-26
+11,1,Algorithms,Sorting,45,2026-10-06
+11,2,Computer Networks,TCP/IP,43,2026-10-11
+11,3,DBMS,Normalization,55,2026-10-16
+11,4,DBMS,Transactions,47,2026-10-21
+11,5,Operating Systems,Scheduling,96,2026-10-26
+12,1,Data Structures,Graphs,38,2026-10-06
+12,2,Operating Systems,Scheduling,77,2026-10-11
+12,3,Data Structures,Trees,83,2026-10-16
+12,4,Operating Systems,Memory Management,55,2026-10-21
+12,5,Operating Systems,Scheduling,99,2026-10-26
+13,1,DBMS,Normalization,81,2026-10-06
+13,2,DBMS,SQL,50,2026-10-11
+13,3,Operating Systems,Scheduling,62,2026-10-16
+13,4,DBMS,Transactions,74,2026-10-21
+13,5,DBMS,SQL,93,2026-10-26
+14,1,Data Structures,Trees,88,2026-10-06
+14,2,Algorithms,Dynamic Programming,89,2026-10-11
+14,3,Computer Networks,OSI Model,33,2026-10-16
+14,4,Computer Networks,Routing,68,2026-10-21
+14,5,Data Structures,Graphs,39,2026-10-26
+15,1,Computer Networks,TCP/IP,73,2026-10-06
+15,2,Data Structures,Arrays,61,2026-10-11
+15,3,DBMS,SQL,53,2026-10-16
+15,4,DBMS,Transactions,79,2026-10-21
+15,5,Operating Systems,Memory Management,47,2026-10-26
+16,1,Algorithms,Sorting,37,2026-10-06
+16,2,Algorithms,Sorting,48,2026-10-11
+16,3,Data Structures,Arrays,41,2026-10-16
+16,4,Data Structures,Arrays,49,2026-10-21
+16,5,DBMS,Normalization,36,2026-10-26
+17,1,Algorithms,Searching,41,2026-10-06
+17,2,Algorithms,Searching,72,2026-10-11
+17,3,Data Structures,Trees,71,2026-10-16
+17,4,Operating Systems,Scheduling,95,2026-10-21
+17,5,DBMS,Normalization,37,2026-10-26
+18,1,Data Structures,Arrays,26,2026-10-06
+18,2,DBMS,Normalization,62,2026-10-11
+18,3,Computer Networks,Routing,80,2026-10-16
+18,4,DBMS,Normalization,69,2026-10-21
+18,5,Algorithms,Searching,33,2026-10-26
+19,1,Data Structures,Graphs,27,2026-10-06
+19,2,Data Structures,Graphs,68,2026-10-11
+19,3,Algorithms,Searching,78,2026-10-16
+19,4,DBMS,Normalization,37,2026-10-21
+19,5,DBMS,Normalization,78,2026-10-26
+20,1,Operating Systems,Deadlock,68,2026-10-06
+20,2,Algorithms,Searching,70,2026-10-11
+20,3,Algorithms,Sorting,48,2026-10-16
+20,4,Operating Systems,Scheduling,38,2026-10-21
+20,5,Operating Systems,Memory Management,49,2026-10-26
+21,1,Computer Networks,OSI Model,41,2026-10-06
+21,2,Data Structures,Graphs,48,2026-10-11
+21,3,Algorithms,Dynamic Programming,49,2026-10-16
+21,4,Data Structures,Graphs,84,2026-10-21
+21,5,Operating Systems,Scheduling,89,2026-10-26
+22,1,Data Structures,Arrays,52,2026-10-06
+22,2,DBMS,SQL,100,2026-10-11
+22,3,Computer Networks,Routing,77,2026-10-16
+22,4,Operating Systems,Memory Management,71,2026-10-21
+22,5,DBMS,SQL,61,2026-10-26
+23,1,Algorithms,Sorting,57,2026-10-06
+23,2,Operating Systems,Memory Management,81,2026-10-11
+23,3,Data Structures,Arrays,31,2026-10-16
+23,4,Data Structures,Arrays,75,2026-10-21
+23,5,DBMS,Transactions,32,2026-10-26
+24,1,DBMS,Transactions,96,2026-10-06
+24,2,Algorithms,Searching,83,2026-10-11
+24,3,Data Structures,Arrays,53,2026-10-16
+24,4,DBMS,Normalization,52,2026-10-21
+24,5,Algorithms,Dynamic Programming,68,2026-10-26
+25,1,Operating Systems,Scheduling,33,2026-10-06
+25,2,Algorithms,Searching,99,2026-10-11
+25,3,Data Structures,Graphs,41,2026-10-16
+25,4,Computer Networks,Routing,95,2026-10-21
+25,5,Operating Systems,Deadlock,50,2026-10-26
+26,1,DBMS,SQL,69,2026-10-06
+26,2,Computer Networks,OSI Model,77,2026-10-11
+26,3,Data Structures,Arrays,52,2026-10-16
+26,4,Computer Networks,OSI Model,89,2026-10-21
+26,5,DBMS,Transactions,76,2026-10-26
+27,1,Data Structures,Trees,71,2026-10-06
+27,2,DBMS,SQL,50,2026-10-11
+27,3,DBMS,SQL,29,2026-10-16
+27,4,Data Structures,Trees,99,2026-10-21
+27,5,DBMS,SQL,62,2026-10-26
+28,1,Computer Networks,Routing,39,2026-10-06
+28,2,Algorithms,Searching,45,2026-10-11
+28,3,Algorithms,Searching,62,2026-10-16
+28,4,Operating Systems,Scheduling,98,2026-10-21
+28,5,Algorithms,Dynamic Programming,27,2026-10-26
+29,1,Algorithms,Sorting,57,2026-10-06
+29,2,DBMS,Transactions,74,2026-10-11
+29,3,Computer Networks,OSI Model,52,2026-10-16
+29,4,Data Structures,Graphs,65,2026-10-21
+29,5,Data Structures,Arrays,72,2026-10-26
+30,1,Computer Networks,Routing,86,2026-10-06
+30,2,DBMS,Transactions,42,2026-10-11
+30,3,Computer Networks,OSI Model,79,2026-10-16
+30,4,Operating Systems,Scheduling,30,2026-10-21
+30,5,Data Structures,Arrays,53,2026-10-26
+31,1,Computer Networks,TCP/IP,41,2026-10-06
+31,2,Computer Networks,OSI Model,90,2026-10-11
+31,3,Operating Systems,Memory Management,32,2026-10-16
+31,4,Algorithms,Searching,32,2026-10-21
+31,5,Data Structures,Arrays,89,2026-10-26
+32,1,Computer Networks,OSI Model,83,2026-10-06
+32,2,Data Structures,Graphs,68,2026-10-11
+32,3,DBMS,Normalization,98,2026-10-16
+32,4,Data Structures,Trees,52,2026-10-21
+32,5,Operating Systems,Memory Management,67,2026-10-26
+33,1,Algorithms,Searching,90,2026-10-06
+33,2,Computer Networks,Routing,51,2026-10-11
+33,3,DBMS,Normalization,91,2026-10-16
+33,4,Data Structures,Trees,69,2026-10-21
+33,5,Operating Systems,Deadlock,78,2026-10-26
+34,1,Computer Networks,Routing,25,2026-10-06
+34,2,DBMS,Normalization,95,2026-10-11
+34,3,DBMS,Transactions,44,2026-10-16
+34,4,Algorithms,Searching,59,2026-10-21
+34,5,Computer Networks,TCP/IP,41,2026-10-26
+35,1,Operating Systems,Deadlock,77,2026-10-06
+35,2,Computer Networks,Routing,92,2026-10-11
+35,3,DBMS,SQL,25,2026-10-16
+35,4,Operating Systems,Scheduling,44,2026-10-21
+35,5,Data Structures,Arrays,34,2026-10-26
+36,1,Computer Networks,OSI Model,65,2026-10-06
+36,2,DBMS,Normalization,89,2026-10-11
+36,3,DBMS,SQL,65,2026-10-16
+36,4,Algorithms,Sorting,35,2026-10-21
+36,5,Computer Networks,TCP/IP,100,2026-10-26
+37,1,Operating Systems,Memory Management,43,2026-10-06
+37,2,Algorithms,Dynamic Programming,71,2026-10-11
+37,3,Operating Systems,Deadlock,45,2026-10-16
+37,4,Data Structures,Arrays,39,2026-10-21
+37,5,Operating Systems,Deadlock,32,2026-10-26
+38,1,DBMS,Transactions,70,2026-10-06
+38,2,Data Structures,Graphs,92,2026-10-11
+38,3,Operating Systems,Memory Management,61,2026-10-16
+38,4,DBMS,Transactions,48,2026-10-21
+38,5,Computer Networks,OSI Model,85,2026-10-26
+39,1,Data Structures,Graphs,48,2026-10-06
+39,2,Operating Systems,Memory Management,58,2026-10-11
+39,3,DBMS,Normalization,77,2026-10-16
+39,4,Data Structures,Arrays,93,2026-10-21
+39,5,Algorithms,Searching,65,2026-10-26
+40,1,DBMS,Normalization,84,2026-10-06
+40,2,Algorithms,Sorting,34,2026-10-11
+40,3,Algorithms,Sorting,27,2026-10-16
+40,4,Computer Networks,Routing,71,2026-10-21
+40,5,Data Structures,Graphs,60,2026-10-26
+41,1,DBMS,Normalization,37,2026-10-06
+41,2,Operating Systems,Scheduling,54,2026-10-11
+41,3,Algorithms,Sorting,51,2026-10-16
+41,4,Computer Networks,Routing,81,2026-10-21
+41,5,Computer Networks,OSI Model,63,2026-10-26
+42,1,Algorithms,Searching,45,2026-10-06
+42,2,DBMS,Transactions,55,2026-10-11
+42,3,Operating Systems,Scheduling,56,2026-10-16
+42,4,Computer Networks,Routing,33,2026-10-21
+42,5,DBMS,Transactions,34,2026-10-26
+43,1,DBMS,Normalization,92,2026-10-06
+43,2,Data Structures,Arrays,49,2026-10-11
+43,3,Computer Networks,TCP/IP,89,2026-10-16
+43,4,DBMS,Transactions,60,2026-10-21
+43,5,DBMS,Normalization,90,2026-10-26
+44,1,Computer Networks,Routing,25,2026-10-06
+44,2,Operating Systems,Memory Management,81,2026-10-11
+44,3,DBMS,SQL,65,2026-10-16
+44,4,Algorithms,Sorting,37,2026-10-21
+44,5,Data Structures,Trees,27,2026-10-26
+45,1,DBMS,Transactions,73,2026-10-06
+45,2,Data Structures,Arrays,79,2026-10-11
+45,3,DBMS,Normalization,91,2026-10-16
+45,4,Operating Systems,Memory Management,56,2026-10-21
+45,5,Data Structures,Graphs,67,2026-10-26
+46,1,Data Structures,Arrays,82,2026-10-06
+46,2,DBMS,SQL,58,2026-10-11
+46,3,Algorithms,Dynamic Programming,28,2026-10-16
+46,4,Computer Networks,TCP/IP,30,2026-10-21
+46,5,DBMS,Normalization,73,2026-10-26
+47,1,Computer Networks,TCP/IP,89,2026-10-06
+47,2,Algorithms,Dynamic Programming,30,2026-10-11
+47,3,Algorithms,Searching,43,2026-10-16
+47,4,Data Structures,Arrays,67,2026-10-21
+47,5,Operating Systems,Deadlock,44,2026-10-26
+48,1,Data Structures,Arrays,26,2026-10-06
+48,2,Computer Networks,TCP/IP,96,2026-10-11
+48,3,Computer Networks,Routing,40,2026-10-16
+48,4,Computer Networks,OSI Model,96,2026-10-21
+48,5,Data Structures,Trees,36,2026-10-26
+49,1,Algorithms,Dynamic Programming,29,2026-10-06
+49,2,Computer Networks,TCP/IP,30,2026-10-11
+49,3,DBMS,Normalization,81,2026-10-16
+49,4,Data Structures,Graphs,93,2026-10-21
+49,5,Computer Networks,TCP/IP,86,2026-10-26
+50,1,Operating Systems,Deadlock,43,2026-10-06
+50,2,Algorithms,Dynamic Programming,90,2026-10-11
+50,3,Data Structures,Trees,37,2026-10-16
+50,4,Data Structures,Graphs,31,2026-10-21
+50,5,Computer Networks,Routing,44,2026-10-26
+51,1,Algorithms,Searching,87,2026-10-06
+51,2,Operating Systems,Deadlock,81,2026-10-11
+51,3,Operating Systems,Scheduling,53,2026-10-16
+51,4,Operating Systems,Deadlock,90,2026-10-21
+51,5,Operating Systems,Deadlock,52,2026-10-26
+52,1,DBMS,Normalization,65,2026-10-06
+52,2,DBMS,Transactions,73,2026-10-11
+52,3,Data Structures,Arrays,27,2026-10-16
+52,4,Operating Systems,Scheduling,59,2026-10-21
+52,5,Operating Systems,Scheduling,62,2026-10-26
+53,1,Operating Systems,Memory Management,79,2026-10-06
+53,2,Computer Networks,TCP/IP,44,2026-10-11
+53,3,Computer Networks,TCP/IP,78,2026-10-16
+53,4,Data Structures,Arrays,90,2026-10-21
+53,5,Algorithms,Searching,46,2026-10-26
+54,1,Computer Networks,Routing,51,2026-10-06
+54,2,Operating Systems,Deadlock,72,2026-10-11
+54,3,DBMS,Transactions,83,2026-10-16
+54,4,Data Structures,Graphs,53,2026-10-21
+54,5,Data Structures,Trees,50,2026-10-26
+55,1,DBMS,SQL,77,2026-10-06
+55,2,Computer Networks,Routing,75,2026-10-11
+55,3,Algorithms,Dynamic Programming,46,2026-10-16
+55,4,Data Structures,Graphs,54,2026-10-21
+55,5,DBMS,Normalization,52,2026-10-26
+56,1,DBMS,Normalization,69,2026-10-06
+56,2,Data Structures,Arrays,73,2026-10-11
+56,3,DBMS,Transactions,25,2026-10-16
+56,4,Operating Systems,Deadlock,70,2026-10-21
+56,5,Operating Systems,Scheduling,72,2026-10-26
+57,1,DBMS,SQL,51,2026-10-06
+57,2,Operating Systems,Memory Management,49,2026-10-11
+57,3,Data Structures,Arrays,39,2026-10-16
+57,4,Data Structures,Trees,97,2026-10-21
+57,5,Computer Networks,Routing,43,2026-10-26
+58,1,Data Structures,Trees,67,2026-10-06
+58,2,DBMS,Normalization,66,2026-10-11
+58,3,Operating Systems,Deadlock,64,2026-10-16
+58,4,DBMS,Normalization,47,2026-10-21
+58,5,Data Structures,Arrays,87,2026-10-26
+59,1,DBMS,Normalization,93,2026-10-06
+59,2,Computer Networks,Routing,64,2026-10-11
+59,3,Computer Networks,TCP/IP,74,2026-10-16
+59,4,Computer Networks,Routing,82,2026-10-21
+59,5,DBMS,Transactions,40,2026-10-26
+60,1,Operating Systems,Scheduling,72,2026-10-06
+60,2,Operating Systems,Scheduling,62,2026-10-11
+60,3,Computer Networks,OSI Model,87,2026-10-16
+60,4,Algorithms,Searching,27,2026-10-21
+60,5,Operating Systems,Scheduling,89,2026-10-26
+61,1,Computer Networks,Routing,32,2026-10-06
+61,2,Computer Networks,Routing,97,2026-10-11
+61,3,Algorithms,Searching,63,2026-10-16
+61,4,DBMS,Normalization,78,2026-10-21
+61,5,Algorithms,Sorting,80,2026-10-26
+62,1,Computer Networks,TCP/IP,26,2026-10-06
+62,2,Algorithms,Searching,84,2026-10-11
+62,3,Operating Systems,Scheduling,61,2026-10-16
+62,4,Data Structures,Graphs,87,2026-10-21
+62,5,Computer Networks,Routing,81,2026-10-26
+63,1,Algorithms,Searching,31,2026-10-06
+63,2,Algorithms,Dynamic Programming,78,2026-10-11
+63,3,Data Structures,Arrays,25,2026-10-16
+63,4,Computer Networks,Routing,62,2026-10-21
+63,5,Operating Systems,Deadlock,25,2026-10-26
+64,1,Algorithms,Sorting,29,2026-10-06
+64,2,DBMS,SQL,45,2026-10-11
+64,3,Operating Systems,Memory Management,91,2026-10-16
+64,4,Algorithms,Dynamic Programming,59,2026-10-21
+64,5,Data Structures,Trees,25,2026-10-26
+65,1,Data Structures,Arrays,80,2026-10-06
+65,2,Operating Systems,Memory Management,49,2026-10-11
+65,3,Algorithms,Sorting,87,2026-10-16
+65,4,Operating Systems,Deadlock,79,2026-10-21
+65,5,Algorithms,Searching,73,2026-10-26
+66,1,Operating Systems,Scheduling,63,2026-10-06
+66,2,DBMS,Normalization,85,2026-10-11
+66,3,DBMS,SQL,59,2026-10-16
+66,4,DBMS,SQL,29,2026-10-21
+66,5,Operating Systems,Memory Management,100,2026-10-26
+67,1,Computer Networks,Routing,81,2026-10-06
+67,2,DBMS,Normalization,61,2026-10-11
+67,3,Algorithms,Searching,47,2026-10-16
+67,4,Algorithms,Sorting,90,2026-10-21
+67,5,Algorithms,Searching,42,2026-10-26
+68,1,DBMS,SQL,56,2026-10-06
+68,2,Operating Systems,Memory Management,34,2026-10-11
+68,3,Data Structures,Arrays,60,2026-10-16
+68,4,Operating Systems,Deadlock,52,2026-10-21
+68,5,Computer Networks,Routing,63,2026-10-26
+69,1,Computer Networks,Routing,39,2026-10-06
+69,2,Data Structures,Arrays,33,2026-10-11
+69,3,DBMS,SQL,43,2026-10-16
+69,4,Computer Networks,Routing,64,2026-10-21
+69,5,Operating Systems,Deadlock,53,2026-10-26
+70,1,Operating Systems,Scheduling,37,2026-10-06
+70,2,DBMS,SQL,72,2026-10-11
+70,3,Algorithms,Sorting,88,2026-10-16
+70,4,Algorithms,Sorting,63,2026-10-21
+70,5,Operating Systems,Deadlock,95,2026-10-26
+71,1,Algorithms,Sorting,50,2026-10-06
+71,2,DBMS,Transactions,31,2026-10-11
+71,3,Operating Systems,Deadlock,77,2026-10-16
+71,4,DBMS,Normalization,86,2026-10-21
+71,5,DBMS,Transactions,49,2026-10-26
+72,1,Computer Networks,TCP/IP,27,2026-10-06
+72,2,Algorithms,Sorting,56,2026-10-11
+72,3,Operating Systems,Deadlock,78,2026-10-16
+72,4,Data Structures,Trees,80,2026-10-21
+72,5,DBMS,Normalization,65,2026-10-26
+73,1,Computer Networks,OSI Model,95,2026-10-06
+73,2,Algorithms,Dynamic Programming,43,2026-10-11
+73,3,Operating Systems,Deadlock,69,2026-10-16
+73,4,Computer Networks,OSI Model,77,2026-10-21
+73,5,DBMS,SQL,75,2026-10-26
+74,1,Operating Systems,Scheduling,30,2026-10-06
+74,2,Data Structures,Arrays,81,2026-10-11
+74,3,Data Structures,Arrays,81,2026-10-16
+74,4,DBMS,Normalization,90,2026-10-21
+74,5,Algorithms,Sorting,44,2026-10-26
+75,1,Algorithms,Dynamic Programming,91,2026-10-06
+75,2,Computer Networks,OSI Model,78,2026-10-11
+75,3,Computer Networks,OSI Model,86,2026-10-16
+75,4,Data Structures,Arrays,84,2026-10-21
+75,5,Data Structures,Arrays,54,2026-10-26
+76,1,Computer Networks,Routing,86,2026-10-06
+76,2,DBMS,Normalization,55,2026-10-11
+76,3,Data Structures,Graphs,85,2026-10-16
+76,4,DBMS,Normalization,82,2026-10-21
+76,5,Algorithms,Sorting,86,2026-10-26
+77,1,Operating Systems,Deadlock,88,2026-10-06
+77,2,Data Structures,Trees,83,2026-10-11
+77,3,Data Structures,Trees,30,2026-10-16
+77,4,Algorithms,Searching,41,2026-10-21
+77,5,Computer Networks,TCP/IP,88,2026-10-26
+78,1,Operating Systems,Scheduling,86,2026-10-06
+78,2,Operating Systems,Scheduling,85,2026-10-11
+78,3,Algorithms,Dynamic Programming,78,2026-10-16
+78,4,Computer Networks,TCP/IP,64,2026-10-21
+78,5,Algorithms,Dynamic Programming,26,2026-10-26
+79,1,Data Structures,Graphs,68,2026-10-06
+79,2,Computer Networks,OSI Model,26,2026-10-11
+79,3,Operating Systems,Memory Management,47,2026-10-16
+79,4,Operating Systems,Scheduling,86,2026-10-21
+79,5,DBMS,Transactions,91,2026-10-26
+80,1,Computer Networks,Routing,85,2026-10-06
+80,2,DBMS,SQL,69,2026-10-11
+80,3,Data Structures,Trees,37,2026-10-16
+80,4,Computer Networks,OSI Model,46,2026-10-21
+80,5,Operating Systems,Memory Management,77,2026-10-26
+81,1,Data Structures,Arrays,94,2026-10-06
+81,2,Data Structures,Graphs,100,2026-10-11
+81,3,DBMS,Normalization,61,2026-10-16
+81,4,Algorithms,Sorting,59,2026-10-21
+81,5,Algorithms,Searching,74,2026-10-26
+82,1,DBMS,SQL,83,2026-10-06
+82,2,Algorithms,Dynamic Programming,42,2026-10-11
+82,3,Operating Systems,Memory Management,78,2026-10-16
+82,4,Algorithms,Searching,72,2026-10-21
+82,5,Computer Networks,OSI Model,85,2026-10-26
+83,1,Computer Networks,TCP/IP,98,2026-10-06
+83,2,Computer Networks,TCP/IP,59,2026-10-11
+83,3,Algorithms,Sorting,59,2026-10-16
+83,4,Data Structures,Arrays,83,2026-10-21
+83,5,Algorithms,Dynamic Programming,78,2026-10-26
+84,1,Computer Networks,Routing,72,2026-10-06
+84,2,Algorithms,Dynamic Programming,62,2026-10-11
+84,3,Operating Systems,Deadlock,56,2026-10-16
+84,4,Computer Networks,Routing,27,2026-10-21
+84,5,Algorithms,Sorting,34,2026-10-26
+85,1,Computer Networks,TCP/IP,92,2026-10-06
+85,2,Algorithms,Sorting,43,2026-10-11
+85,3,Computer Networks,Routing,98,2026-10-16
+85,4,Algorithms,Dynamic Programming,49,2026-10-21
+85,5,Data Structures,Arrays,48,2026-10-26
+86,1,Computer Networks,Routing,79,2026-10-06
+86,2,Data Structures,Trees,87,2026-10-11
+86,3,Computer Networks,TCP/IP,75,2026-10-16
+86,4,Algorithms,Searching,28,2026-10-21
+86,5,DBMS,SQL,62,2026-10-26
+87,1,DBMS,SQL,99,2026-10-06
+87,2,Computer Networks,TCP/IP,42,2026-10-11
+87,3,Computer Networks,OSI Model,78,2026-10-16
+87,4,Operating Systems,Memory Management,99,2026-10-21
+87,5,Algorithms,Sorting,65,2026-10-26
+88,1,Computer Networks,OSI Model,78,2026-10-06
+88,2,Operating Systems,Scheduling,89,2026-10-11
+88,3,Data Structures,Trees,39,2026-10-16
+88,4,Data Structures,Graphs,71,2026-10-21
+88,5,DBMS,Normalization,70,2026-10-26
+89,1,Operating Systems,Scheduling,57,2026-10-06
+89,2,Computer Networks,OSI Model,36,2026-10-11
+89,3,Data Structures,Graphs,62,2026-10-16
+89,4,Computer Networks,Routing,37,2026-10-21
+89,5,Algorithms,Searching,61,2026-10-26
+90,1,DBMS,SQL,90,2026-10-06
+90,2,Data Structures,Graphs,50,2026-10-11
+90,3,Computer Networks,OSI Model,46,2026-10-16
+90,4,Data Structures,Trees,64,2026-10-21
+90,5,Operating Systems,Scheduling,79,2026-10-26
+91,1,Computer Networks,OSI Model,69,2026-10-06
+91,2,Computer Networks,OSI Model,80,2026-10-11
+91,3,Computer Networks,TCP/IP,97,2026-10-16
+91,4,Computer Networks,OSI Model,61,2026-10-21
+91,5,Operating Systems,Deadlock,81,2026-10-26
+92,1,Algorithms,Searching,44,2026-10-06
+92,2,Data Structures,Arrays,77,2026-10-11
+92,3,Data Structures,Trees,41,2026-10-16
+92,4,Operating Systems,Scheduling,53,2026-10-21
+92,5,Computer Networks,Routing,35,2026-10-26
+93,1,Operating Systems,Scheduling,95,2026-10-06
+93,2,Data Structures,Graphs,58,2026-10-11
+93,3,Computer Networks,Routing,34,2026-10-16
+93,4,Data Structures,Arrays,27,2026-10-21
+93,5,Algorithms,Searching,64,2026-10-26
+94,1,Data Structures,Arrays,35,2026-10-06
+94,2,Algorithms,Searching,80,2026-10-11
+94,3,Data Structures,Graphs,63,2026-10-16
+94,4,Data Structures,Trees,60,2026-10-21
+94,5,Algorithms,Sorting,60,2026-10-26
+95,1,Algorithms,Searching,28,2026-10-06
+95,2,Operating Systems,Scheduling,46,2026-10-11
+95,3,Operating Systems,Memory Management,35,2026-10-16
+95,4,Data Structures,Graphs,86,2026-10-21
+95,5,Algorithms,Searching,34,2026-10-26
+96,1,Computer Networks,Routing,41,2026-10-06
+96,2,DBMS,Transactions,81,2026-10-11
+96,3,Operating Systems,Deadlock,80,2026-10-16
+96,4,Operating Systems,Deadlock,46,2026-10-21
+96,5,Algorithms,Sorting,72,2026-10-26
+97,1,Operating Systems,Memory Management,100,2026-10-06
+97,2,DBMS,Transactions,39,2026-10-11
+97,3,Algorithms,Sorting,56,2026-10-16
+97,4,DBMS,SQL,97,2026-10-21
+97,5,Data Structures,Graphs,84,2026-10-26
+98,1,DBMS,Transactions,72,2026-10-06
+98,2,Operating Systems,Memory Management,63,2026-10-11
+98,3,Data Structures,Arrays,86,2026-10-16
+98,4,Algorithms,Sorting,30,2026-10-21
+98,5,Computer Networks,TCP/IP,84,2026-10-26
+99,1,Operating Systems,Scheduling,78,2026-10-06
+99,2,Data Structures,Arrays,96,2026-10-11
+99,3,DBMS,Normalization,56,2026-10-16
+99,4,Computer Networks,Routing,87,2026-10-21
+99,5,Data Structures,Trees,91,2026-10-26
+100,1,Data Structures,Arrays,46,2026-10-06
+100,2,Algorithms,Searching,96,2026-10-11
+100,3,DBMS,SQL,56,2026-10-16
+100,4,Computer Networks,Routing,27,2026-10-21
+100,5,Computer Networks,TCP/IP,83,2026-10-26
+101,1,Algorithms,Dynamic Programming,93,2026-10-06
+101,2,Data Structures,Trees,65,2026-10-11
+101,3,Algorithms,Searching,46,2026-10-16
+101,4,Data Structures,Trees,69,2026-10-21
+101,5,Operating Systems,Scheduling,73,2026-10-26
+102,1,Data Structures,Trees,78,2026-10-06
+102,2,Data Structures,Trees,25,2026-10-11
+102,3,Algorithms,Sorting,48,2026-10-16
+102,4,Operating Systems,Scheduling,47,2026-10-21
+102,5,Computer Networks,Routing,83,2026-10-26
+103,1,Algorithms,Dynamic Programming,52,2026-10-06
+103,2,DBMS,Normalization,40,2026-10-11
+103,3,Operating Systems,Scheduling,41,2026-10-16
+103,4,Algorithms,Searching,37,2026-10-21
+103,5,Computer Networks,TCP/IP,45,2026-10-26
+104,1,DBMS,Transactions,39,2026-10-06
+104,2,DBMS,SQL,77,2026-10-11
+104,3,Data Structures,Graphs,57,2026-10-16
+104,4,DBMS,Normalization,78,2026-10-21
+104,5,DBMS,Transactions,99,2026-10-26
+105,1,Operating Systems,Deadlock,56,2026-10-06
+105,2,Data Structures,Trees,81,2026-10-11
+105,3,Computer Networks,Routing,36,2026-10-16
+105,4,DBMS,Transactions,66,2026-10-21
+105,5,Computer Networks,OSI Model,67,2026-10-26
+106,1,DBMS,Normalization,56,2026-10-06
+106,2,Operating Systems,Deadlock,64,2026-10-11
+106,3,Operating Systems,Scheduling,61,2026-10-16
+106,4,Algorithms,Dynamic Programming,78,2026-10-21
+106,5,DBMS,Normalization,35,2026-10-26
+107,1,DBMS,Normalization,90,2026-10-06
+107,2,Computer Networks,OSI Model,52,2026-10-11
+107,3,Computer Networks,TCP/IP,30,2026-10-16
+107,4,Computer Networks,Routing,52,2026-10-21
+107,5,Operating Systems,Scheduling,61,2026-10-26
+108,1,Computer Networks,Routing,73,2026-10-06
+108,2,Computer Networks,Routing,37,2026-10-11
+108,3,Data Structures,Graphs,56,2026-10-16
+108,4,DBMS,Normalization,84,2026-10-21
+108,5,Computer Networks,Routing,80,2026-10-26
+109,1,Computer Networks,TCP/IP,66,2026-10-06
+109,2,Operating Systems,Deadlock,87,2026-10-11
+109,3,Data Structures,Graphs,28,2026-10-16
+109,4,Data Structures,Arrays,33,2026-10-21
+109,5,Data Structures,Arrays,38,2026-10-26
+110,1,Algorithms,Sorting,58,2026-10-06
+110,2,Computer Networks,Routing,48,2026-10-11
+110,3,Operating Systems,Deadlock,50,2026-10-16
+110,4,Data Structures,Graphs,91,2026-10-21
+110,5,Algorithms,Dynamic Programming,82,2026-10-26
+111,1,Computer Networks,TCP/IP,39,2026-10-06
+111,2,Computer Networks,TCP/IP,77,2026-10-11
+111,3,Data Structures,Graphs,71,2026-10-16
+111,4,Operating Systems,Memory Management,74,2026-10-21
+111,5,Data Structures,Arrays,28,2026-10-26
+112,1,DBMS,SQL,90,2026-10-06
+112,2,Computer Networks,Routing,45,2026-10-11
+112,3,DBMS,Normalization,86,2026-10-16
+112,4,Algorithms,Sorting,62,2026-10-21
+112,5,Algorithms,Dynamic Programming,76,2026-10-26
+113,1,DBMS,Normalization,29,2026-10-06
+113,2,DBMS,Transactions,71,2026-10-11
+113,3,Data Structures,Arrays,42,2026-10-16
+113,4,Algorithms,Dynamic Programming,47,2026-10-21
+113,5,Computer Networks,Routing,34,2026-10-26
+114,1,DBMS,Normalization,96,2026-10-06
+114,2,Computer Networks,TCP/IP,88,2026-10-11
+114,3,Algorithms,Searching,77,2026-10-16
+114,4,Algorithms,Dynamic Programming,93,2026-10-21
+114,5,DBMS,Transactions,26,2026-10-26
+115,1,DBMS,Transactions,54,2026-10-06
+115,2,Computer Networks,OSI Model,96,2026-10-11
+115,3,Algorithms,Sorting,78,2026-10-16
+115,4,Data Structures,Graphs,97,2026-10-21
+115,5,Operating Systems,Deadlock,80,2026-10-26
+116,1,Operating Systems,Memory Management,55,2026-10-06
+116,2,Data Structures,Trees,100,2026-10-11
+116,3,DBMS,Transactions,46,2026-10-16
+116,4,Algorithms,Dynamic Programming,25,2026-10-21
+116,5,DBMS,Normalization,87,2026-10-26
+117,1,Operating Systems,Scheduling,66,2026-10-06
+117,2,Algorithms,Dynamic Programming,46,2026-10-11
+117,3,Computer Networks,TCP/IP,32,2026-10-16
+117,4,DBMS,Normalization,37,2026-10-21
+117,5,DBMS,SQL,69,2026-10-26
+118,1,Computer Networks,Routing,38,2026-10-06
+118,2,Algorithms,Dynamic Programming,78,2026-10-11
+118,3,Algorithms,Dynamic Programming,37,2026-10-16
+118,4,DBMS,Transactions,59,2026-10-21
+118,5,Data Structures,Graphs,93,2026-10-26
+119,1,Operating Systems,Deadlock,47,2026-10-06
+119,2,DBMS,SQL,50,2026-10-11
+119,3,Algorithms,Searching,44,2026-10-16
+119,4,Computer Networks,Routing,42,2026-10-21
+119,5,Data Structures,Trees,38,2026-10-26
+120,1,Algorithms,Dynamic Programming,68,2026-10-06
+120,2,Computer Networks,OSI Model,59,2026-10-11
+120,3,DBMS,Transactions,43,2026-10-16
+120,4,Data Structures,Arrays,56,2026-10-21
+120,5,Operating Systems,Deadlock,41,2026-10-26
+121,1,Computer Networks,Routing,89,2026-10-06
+121,2,Computer Networks,TCP/IP,94,2026-10-11
+121,3,Operating Systems,Scheduling,61,2026-10-16
+121,4,Data Structures,Arrays,40,2026-10-21
+121,5,Data Structures,Trees,52,2026-10-26
+122,1,Algorithms,Searching,55,2026-10-06
+122,2,Computer Networks,Routing,32,2026-10-11
+122,3,Computer Networks,OSI Model,97,2026-10-16
+122,4,Algorithms,Searching,32,2026-10-21
+122,5,Data Structures,Arrays,81,2026-10-26
+123,1,Computer Networks,Routing,98,2026-10-06
+123,2,Operating Systems,Scheduling,93,2026-10-11
+123,3,Algorithms,Sorting,63,2026-10-16
+123,4,Data Structures,Graphs,67,2026-10-21
+123,5,Algorithms,Dynamic Programming,93,2026-10-26
+124,1,Operating Systems,Deadlock,28,2026-10-06
+124,2,Algorithms,Dynamic Programming,30,2026-10-11
+124,3,Operating Systems,Scheduling,39,2026-10-16
+124,4,Operating Systems,Deadlock,98,2026-10-21
+124,5,Data Structures,Graphs,87,2026-10-26
+125,1,Computer Networks,Routing,35,2026-10-06
+125,2,Computer Networks,TCP/IP,28,2026-10-11
+125,3,Data Structures,Trees,65,2026-10-16
+125,4,Computer Networks,TCP/IP,56,2026-10-21
+125,5,Computer Networks,Routing,89,2026-10-26
+126,1,Data Structures,Graphs,35,2026-10-06
+126,2,Algorithms,Dynamic Programming,27,2026-10-11
+126,3,DBMS,Transactions,38,2026-10-16
+126,4,DBMS,SQL,97,2026-10-21
+126,5,Operating Systems,Memory Management,71,2026-10-26
+127,1,Algorithms,Dynamic Programming,54,2026-10-06
+127,2,DBMS,SQL,49,2026-10-11
+127,3,Operating Systems,Scheduling,82,2026-10-16
+127,4,DBMS,Normalization,72,2026-10-21
+127,5,Operating Systems,Scheduling,99,2026-10-26
+128,1,Computer Networks,TCP/IP,45,2026-10-06
+128,2,Algorithms,Dynamic Programming,88,2026-10-11
+128,3,Operating Systems,Deadlock,66,2026-10-16
+128,4,Operating Systems,Scheduling,99,2026-10-21
+128,5,DBMS,Transactions,42,2026-10-26
+129,1,Computer Networks,TCP/IP,83,2026-10-06
+129,2,Operating Systems,Scheduling,81,2026-10-11
+129,3,Data Structures,Arrays,71,2026-10-16
+129,4,Operating Systems,Deadlock,28,2026-10-21
+129,5,Operating Systems,Scheduling,83,2026-10-26
+130,1,Computer Networks,OSI Model,96,2026-10-06
+130,2,Data Structures,Trees,67,2026-10-11
+130,3,DBMS,Transactions,60,2026-10-16
+130,4,Algorithms,Sorting,60,2026-10-21
+130,5,Data Structures,Graphs,71,2026-10-26
+131,1,Data Structures,Trees,54,2026-10-06
+131,2,Operating Systems,Memory Management,76,2026-10-11
+131,3,Data Structures,Trees,61,2026-10-16
+131,4,Algorithms,Dynamic Programming,39,2026-10-21
+131,5,Data Structures,Arrays,70,2026-10-26
+132,1,Data Structures,Arrays,45,2026-10-06
+132,2,Algorithms,Dynamic Programming,79,2026-10-11
+132,3,Data Structures,Trees,44,2026-10-16
+132,4,DBMS,SQL,87,2026-10-21
+132,5,Data Structures,Graphs,46,2026-10-26
+133,1,Operating Systems,Deadlock,78,2026-10-06
+133,2,Data Structures,Graphs,69,2026-10-11
+133,3,Computer Networks,OSI Model,58,2026-10-16
+133,4,Algorithms,Dynamic Programming,86,2026-10-21
+133,5,Algorithms,Searching,76,2026-10-26
+134,1,Data Structures,Arrays,60,2026-10-06
+134,2,DBMS,Transactions,43,2026-10-11
+134,3,Data Structures,Arrays,81,2026-10-16
+134,4,Data Structures,Trees,56,2026-10-21
+134,5,Data Structures,Graphs,29,2026-10-26
+135,1,Data Structures,Arrays,99,2026-10-06
+135,2,Algorithms,Searching,82,2026-10-11
+135,3,Data Structures,Trees,68,2026-10-16
+135,4,Operating Systems,Deadlock,66,2026-10-21
+135,5,DBMS,SQL,31,2026-10-26
+136,1,Data Structures,Arrays,55,2026-10-06
+136,2,Computer Networks,TCP/IP,85,2026-10-11
+136,3,Computer Networks,OSI Model,77,2026-10-16
+136,4,Operating Systems,Memory Management,34,2026-10-21
+136,5,Operating Systems,Scheduling,84,2026-10-26
+137,1,DBMS,SQL,63,2026-10-06
+137,2,Algorithms,Dynamic Programming,25,2026-10-11
+137,3,Computer Networks,OSI Model,28,2026-10-16
+137,4,Operating Systems,Memory Management,74,2026-10-21
+137,5,Data Structures,Arrays,99,2026-10-26
+138,1,Data Structures,Trees,71,2026-10-06
+138,2,Data Structures,Trees,95,2026-10-11
+138,3,Operating Systems,Scheduling,48,2026-10-16
+138,4,Data Structures,Arrays,50,2026-10-21
+138,5,Computer Networks,Routing,67,2026-10-26
+139,1,Computer Networks,TCP/IP,91,2026-10-06
+139,2,Data Structures,Arrays,51,2026-10-11
+139,3,DBMS,SQL,90,2026-10-16
+139,4,DBMS,SQL,84,2026-10-21
+139,5,Data Structures,Graphs,52,2026-10-26
+140,1,DBMS,Normalization,34,2026-10-06
+140,2,Data Structures,Graphs,64,2026-10-11
+140,3,DBMS,Normalization,66,2026-10-16
+140,4,Algorithms,Searching,46,2026-10-21
+140,5,DBMS,SQL,51,2026-10-26
+141,1,DBMS,SQL,56,2026-10-06
+141,2,Operating Systems,Deadlock,90,2026-10-11
+141,3,Data Structures,Trees,100,2026-10-16
+141,4,Operating Systems,Deadlock,34,2026-10-21
+141,5,DBMS,SQL,72,2026-10-26
+142,1,Data Structures,Arrays,84,2026-10-06
+142,2,Operating Systems,Deadlock,75,2026-10-11
+142,3,Data Structures,Graphs,51,2026-10-16
+142,4,Operating Systems,Memory Management,81,2026-10-21
+142,5,Operating Systems,Deadlock,39,2026-10-26
+143,1,Data Structures,Trees,52,2026-10-06
+143,2,Data Structures,Trees,48,2026-10-11
+143,3,Algorithms,Searching,42,2026-10-16
+143,4,Operating Systems,Scheduling,100,2026-10-21
+143,5,Data Structures,Trees,60,2026-10-26
+144,1,Algorithms,Sorting,57,2026-10-06
+144,2,Algorithms,Searching,62,2026-10-11
+144,3,Computer Networks,OSI Model,40,2026-10-16
+144,4,Computer Networks,TCP/IP,92,2026-10-21
+144,5,Algorithms,Dynamic Programming,94,2026-10-26
+145,1,Data Structures,Trees,38,2026-10-06
+145,2,Algorithms,Dynamic Programming,70,2026-10-11
+145,3,Data Structures,Trees,65,2026-10-16
+145,4,Data Structures,Graphs,29,2026-10-21
+145,5,Algorithms,Dynamic Programming,67,2026-10-26
+146,1,DBMS,Normalization,55,2026-10-06
+146,2,Computer Networks,TCP/IP,78,2026-10-11
+146,3,Algorithms,Dynamic Programming,59,2026-10-16
+146,4,Algorithms,Sorting,53,2026-10-21
+146,5,DBMS,Transactions,46,2026-10-26
+147,1,Operating Systems,Deadlock,93,2026-10-06
+147,2,Data Structures,Arrays,96,2026-10-11
+147,3,DBMS,Transactions,99,2026-10-16
+147,4,Computer Networks,TCP/IP,78,2026-10-21
+147,5,Operating Systems,Memory Management,44,2026-10-26
+148,1,Computer Networks,TCP/IP,82,2026-10-06
+148,2,Algorithms,Dynamic Programming,25,2026-10-11
+148,3,DBMS,SQL,53,2026-10-16
+148,4,Data Structures,Graphs,32,2026-10-21
+148,5,Algorithms,Dynamic Programming,57,2026-10-26
+149,1,Computer Networks,OSI Model,93,2026-10-06
+149,2,Computer Networks,TCP/IP,44,2026-10-11
+149,3,DBMS,Transactions,28,2026-10-16
+149,4,Computer Networks,Routing,43,2026-10-21
+149,5,Computer Networks,TCP/IP,67,2026-10-26
+150,1,Algorithms,Sorting,84,2026-10-06
+150,2,DBMS,SQL,76,2026-10-11
+150,3,Algorithms,Sorting,67,2026-10-16
+150,4,Computer Networks,Routing,50,2026-10-21
+150,5,Computer Networks,TCP/IP,52,2026-10-26
+151,1,DBMS,Transactions,63,2026-10-06
+151,2,Computer Networks,OSI Model,79,2026-10-11
+151,3,Computer Networks,Routing,66,2026-10-16
+151,4,Computer Networks,OSI Model,62,2026-10-21
+151,5,Operating Systems,Memory Management,43,2026-10-26
+152,1,Data Structures,Graphs,66,2026-10-06
+152,2,Data Structures,Trees,96,2026-10-11
+152,3,Computer Networks,Routing,71,2026-10-16
+152,4,Computer Networks,OSI Model,85,2026-10-21
+152,5,Data Structures,Trees,36,2026-10-26
+153,1,Operating Systems,Scheduling,36,2026-10-06
+153,2,Computer Networks,OSI Model,61,2026-10-11
+153,3,Algorithms,Sorting,37,2026-10-16
+153,4,DBMS,Normalization,78,2026-10-21
+153,5,DBMS,SQL,28,2026-10-26
+154,1,Computer Networks,TCP/IP,31,2026-10-06
+154,2,Operating Systems,Memory Management,78,2026-10-11
+154,3,DBMS,Transactions,69,2026-10-16
+154,4,Operating Systems,Memory Management,81,2026-10-21
+154,5,Operating Systems,Deadlock,78,2026-10-26
+155,1,Algorithms,Dynamic Programming,60,2026-10-06
+155,2,Computer Networks,Routing,41,2026-10-11
+155,3,Computer Networks,Routing,54,2026-10-16
+155,4,Data Structures,Trees,69,2026-10-21
+155,5,DBMS,Transactions,71,2026-10-26
+156,1,Algorithms,Searching,62,2026-10-06
+156,2,DBMS,SQL,31,2026-10-11
+156,3,DBMS,SQL,65,2026-10-16
+156,4,Operating Systems,Scheduling,81,2026-10-21
+156,5,Algorithms,Searching,76,2026-10-26
+157,1,DBMS,Normalization,77,2026-10-06
+157,2,Data Structures,Graphs,28,2026-10-11
+157,3,DBMS,Transactions,28,2026-10-16
+157,4,DBMS,Transactions,74,2026-10-21
+157,5,DBMS,Normalization,59,2026-10-26
+158,1,Algorithms,Dynamic Programming,60,2026-10-06
+158,2,Operating Systems,Memory Management,67,2026-10-11
+158,3,Computer Networks,Routing,42,2026-10-16
+158,4,Data Structures,Trees,40,2026-10-21
+158,5,Computer Networks,OSI Model,83,2026-10-26
+159,1,Data Structures,Trees,41,2026-10-06
+159,2,Operating Systems,Memory Management,28,2026-10-11
+159,3,Computer Networks,Routing,36,2026-10-16
+159,4,Data Structures,Graphs,77,2026-10-21
+159,5,Algorithms,Sorting,82,2026-10-26
+160,1,Operating Systems,Memory Management,30,2026-10-06
+160,2,Data Structures,Graphs,43,2026-10-11
+160,3,Algorithms,Searching,54,2026-10-16
+160,4,DBMS,SQL,57,2026-10-21
+160,5,Operating Systems,Deadlock,36,2026-10-26
+161,1,Computer Networks,OSI Model,33,2026-10-06
+161,2,Algorithms,Dynamic Programming,53,2026-10-11
+161,3,DBMS,Transactions,86,2026-10-16
+161,4,Algorithms,Dynamic Programming,26,2026-10-21
+161,5,Data Structures,Arrays,68,2026-10-26
+162,1,Operating Systems,Memory Management,31,2026-10-06
+162,2,Computer Networks,Routing,62,2026-10-11
+162,3,Algorithms,Searching,57,2026-10-16
+162,4,Data Structures,Arrays,35,2026-10-21
+162,5,Data Structures,Arrays,92,2026-10-26
+163,1,DBMS,SQL,46,2026-10-06
+163,2,Operating Systems,Memory Management,30,2026-10-11
+163,3,Operating Systems,Deadlock,81,2026-10-16
+163,4,Algorithms,Dynamic Programming,40,2026-10-21
+163,5,Data Structures,Arrays,73,2026-10-26
+164,1,DBMS,SQL,69,2026-10-06
+164,2,Algorithms,Dynamic Programming,93,2026-10-11
+164,3,Operating Systems,Deadlock,83,2026-10-16
+164,4,Operating Systems,Memory Management,63,2026-10-21
+164,5,Operating Systems,Memory Management,95,2026-10-26
+165,1,Algorithms,Dynamic Programming,27,2026-10-06
+165,2,Computer Networks,Routing,53,2026-10-11
+165,3,Computer Networks,Routing,36,2026-10-16
+165,4,Algorithms,Sorting,43,2026-10-21
+165,5,Computer Networks,OSI Model,71,2026-10-26
+166,1,Data Structures,Arrays,91,2026-10-06
+166,2,Algorithms,Dynamic Programming,40,2026-10-11
+166,3,Algorithms,Dynamic Programming,33,2026-10-16
+166,4,Data Structures,Graphs,95,2026-10-21
+166,5,Operating Systems,Deadlock,46,2026-10-26
+167,1,DBMS,Normalization,68,2026-10-06
+167,2,DBMS,SQL,96,2026-10-11
+167,3,DBMS,Normalization,74,2026-10-16
+167,4,Data Structures,Trees,84,2026-10-21
+167,5,Operating Systems,Scheduling,65,2026-10-26
+168,1,Data Structures,Trees,47,2026-10-06
+168,2,Computer Networks,Routing,93,2026-10-11
+168,3,Computer Networks,TCP/IP,42,2026-10-16
+168,4,Algorithms,Dynamic Programming,52,2026-10-21
+168,5,Operating Systems,Memory Management,84,2026-10-26
+169,1,DBMS,Transactions,80,2026-10-06
+169,2,Computer Networks,OSI Model,33,2026-10-11
+169,3,Data Structures,Trees,92,2026-10-16
+169,4,DBMS,SQL,91,2026-10-21
+169,5,Operating Systems,Scheduling,48,2026-10-26
+170,1,Algorithms,Sorting,93,2026-10-06
+170,2,DBMS,SQL,90,2026-10-11
+170,3,Operating Systems,Memory Management,69,2026-10-16
+170,4,Operating Systems,Memory Management,87,2026-10-21
+170,5,Data Structures,Arrays,79,2026-10-26
+171,1,Computer Networks,OSI Model,59,2026-10-06
+171,2,Algorithms,Searching,38,2026-10-11
+171,3,Algorithms,Sorting,89,2026-10-16
+171,4,Computer Networks,OSI Model,47,2026-10-21
+171,5,Computer Networks,Routing,100,2026-10-26
+172,1,Data Structures,Arrays,57,2026-10-06
+172,2,Computer Networks,OSI Model,76,2026-10-11
+172,3,Algorithms,Searching,73,2026-10-16
+172,4,Algorithms,Searching,64,2026-10-21
+172,5,Algorithms,Searching,78,2026-10-26
+173,1,Data Structures,Arrays,84,2026-10-06
+173,2,Algorithms,Searching,96,2026-10-11
+173,3,Data Structures,Arrays,50,2026-10-16
+173,4,Algorithms,Sorting,89,2026-10-21
+173,5,Computer Networks,OSI Model,67,2026-10-26
+174,1,Computer Networks,OSI Model,54,2026-10-06
+174,2,Algorithms,Dynamic Programming,42,2026-10-11
+174,3,DBMS,Normalization,81,2026-10-16
+174,4,Computer Networks,TCP/IP,68,2026-10-21
+174,5,Operating Systems,Memory Management,71,2026-10-26
+175,1,Computer Networks,Routing,31,2026-10-06
+175,2,Operating Systems,Memory Management,30,2026-10-11
+175,3,Computer Networks,TCP/IP,81,2026-10-16
+175,4,Algorithms,Searching,64,2026-10-21
+175,5,Algorithms,Sorting,73,2026-10-26
+176,1,Data Structures,Trees,41,2026-10-06
+176,2,Data Structures,Trees,90,2026-10-11
+176,3,DBMS,SQL,65,2026-10-16
+176,4,Computer Networks,TCP/IP,62,2026-10-21
+176,5,Algorithms,Dynamic Programming,38,2026-10-26
+177,1,Operating Systems,Memory Management,48,2026-10-06
+177,2,Computer Networks,Routing,88,2026-10-11
+177,3,DBMS,Normalization,59,2026-10-16
+177,4,DBMS,Normalization,69,2026-10-21
+177,5,DBMS,SQL,40,2026-10-26
+178,1,Operating Systems,Deadlock,43,2026-10-06
+178,2,Computer Networks,TCP/IP,40,2026-10-11
+178,3,Computer Networks,TCP/IP,25,2026-10-16
+178,4,Operating Systems,Memory Management,58,2026-10-21
+178,5,Data Structures,Arrays,42,2026-10-26
+179,1,Operating Systems,Deadlock,69,2026-10-06
+179,2,Algorithms,Searching,94,2026-10-11
+179,3,DBMS,Transactions,63,2026-10-16
+179,4,Operating Systems,Scheduling,54,2026-10-21
+179,5,DBMS,SQL,84,2026-10-26
+180,1,Data Structures,Trees,97,2026-10-06
+180,2,Data Structures,Arrays,64,2026-10-11
+180,3,DBMS,Normalization,33,2026-10-16
+180,4,Operating Systems,Deadlock,40,2026-10-21
+180,5,Computer Networks,TCP/IP,76,2026-10-26
+181,1,Algorithms,Dynamic Programming,29,2026-10-06
+181,2,Data Structures,Arrays,42,2026-10-11
+181,3,Operating Systems,Deadlock,37,2026-10-16
+181,4,Data Structures,Graphs,98,2026-10-21
+181,5,Algorithms,Dynamic Programming,32,2026-10-26
+182,1,Computer Networks,OSI Model,33,2026-10-06
+182,2,Algorithms,Dynamic Programming,66,2026-10-11
+182,3,Algorithms,Sorting,36,2026-10-16
+182,4,Algorithms,Searching,97,2026-10-21
+182,5,Data Structures,Arrays,26,2026-10-26
+183,1,Data Structures,Arrays,64,2026-10-06
+183,2,Algorithms,Dynamic Programming,53,2026-10-11
+183,3,Operating Systems,Memory Management,93,2026-10-16
+183,4,DBMS,Transactions,74,2026-10-21
+183,5,Data Structures,Arrays,26,2026-10-26
+184,1,DBMS,Normalization,94,2026-10-06
+184,2,Computer Networks,Routing,99,2026-10-11
+184,3,Data Structures,Trees,83,2026-10-16
+184,4,Data Structures,Arrays,86,2026-10-21
+184,5,DBMS,Transactions,79,2026-10-26
+185,1,Computer Networks,OSI Model,38,2026-10-06
+185,2,DBMS,Transactions,31,2026-10-11
+185,3,Computer Networks,TCP/IP,40,2026-10-16
+185,4,Computer Networks,Routing,66,2026-10-21
+185,5,DBMS,Transactions,69,2026-10-26
+186,1,Algorithms,Dynamic Programming,51,2026-10-06
+186,2,Operating Systems,Scheduling,60,2026-10-11
+186,3,DBMS,SQL,48,2026-10-16
+186,4,Operating Systems,Memory Management,30,2026-10-21
+186,5,Algorithms,Searching,49,2026-10-26
+187,1,DBMS,SQL,48,2026-10-06
+187,2,Computer Networks,Routing,52,2026-10-11
+187,3,Computer Networks,OSI Model,62,2026-10-16
+187,4,Algorithms,Searching,75,2026-10-21
+187,5,Operating Systems,Deadlock,78,2026-10-26
+188,1,Computer Networks,OSI Model,44,2026-10-06
+188,2,Computer Networks,OSI Model,33,2026-10-11
+188,3,Algorithms,Sorting,53,2026-10-16
+188,4,Data Structures,Arrays,27,2026-10-21
+188,5,Algorithms,Dynamic Programming,51,2026-10-26
+189,1,DBMS,Transactions,95,2026-10-06
+189,2,Data Structures,Arrays,65,2026-10-11
+189,3,Computer Networks,OSI Model,66,2026-10-16
+189,4,Algorithms,Sorting,74,2026-10-21
+189,5,Data Structures,Trees,83,2026-10-26
+190,1,DBMS,Transactions,72,2026-10-06
+190,2,Algorithms,Dynamic Programming,71,2026-10-11
+190,3,Computer Networks,Routing,87,2026-10-16
+190,4,Algorithms,Sorting,55,2026-10-21
+190,5,DBMS,Transactions,74,2026-10-26
+191,1,Operating Systems,Memory Management,94,2026-10-06
+191,2,Computer Networks,OSI Model,74,2026-10-11
+191,3,Data Structures,Arrays,32,2026-10-16
+191,4,Computer Networks,Routing,71,2026-10-21
+191,5,Algorithms,Sorting,85,2026-10-26
+192,1,Data Structures,Trees,37,2026-10-06
+192,2,DBMS,SQL,86,2026-10-11
+192,3,Data Structures,Graphs,95,2026-10-16
+192,4,Algorithms,Dynamic Programming,55,2026-10-21
+192,5,Algorithms,Sorting,62,2026-10-26
+193,1,Computer Networks,Routing,26,2026-10-06
+193,2,DBMS,Normalization,80,2026-10-11
+193,3,Algorithms,Sorting,85,2026-10-16
+193,4,Algorithms,Searching,59,2026-10-21
+193,5,Algorithms,Searching,67,2026-10-26
+194,1,DBMS,SQL,26,2026-10-06
+194,2,Data Structures,Trees,63,2026-10-11
+194,3,Operating Systems,Scheduling,30,2026-10-16
+194,4,DBMS,Transactions,93,2026-10-21
+194,5,Algorithms,Dynamic Programming,61,2026-10-26
+195,1,DBMS,Normalization,66,2026-10-06
+195,2,DBMS,SQL,33,2026-10-11
+195,3,Computer Networks,Routing,88,2026-10-16
+195,4,Operating Systems,Memory Management,53,2026-10-21
+195,5,Computer Networks,Routing,42,2026-10-26
+196,1,DBMS,Transactions,25,2026-10-06
+196,2,Data Structures,Trees,51,2026-10-11
+196,3,Computer Networks,OSI Model,56,2026-10-16
+196,4,DBMS,SQL,79,2026-10-21
+196,5,Data Structures,Graphs,86,2026-10-26
+197,1,Operating Systems,Memory Management,80,2026-10-06
+197,2,DBMS,Normalization,80,2026-10-11
+197,3,Operating Systems,Scheduling,67,2026-10-16
+197,4,Algorithms,Searching,42,2026-10-21
+197,5,Computer Networks,Routing,82,2026-10-26
+198,1,Data Structures,Arrays,95,2026-10-06
+198,2,Operating Systems,Scheduling,31,2026-10-11
+198,3,Operating Systems,Deadlock,92,2026-10-16
+198,4,DBMS,SQL,53,2026-10-21
+198,5,Algorithms,Searching,33,2026-10-26
+199,1,Computer Networks,OSI Model,100,2026-10-06
+199,2,Operating Systems,Memory Management,80,2026-10-11
+199,3,Computer Networks,Routing,44,2026-10-16
+199,4,Computer Networks,Routing,96,2026-10-21
+199,5,DBMS,SQL,48,2026-10-26
+200,1,Computer Networks,Routing,87,2026-10-06
+200,2,DBMS,Transactions,84,2026-10-11
+200,3,Computer Networks,Routing,54,2026-10-16
+200,4,Algorithms,Searching,99,2026-10-21
+200,5,Data Structures,Graphs,53,2026-10-26
+201,1,Computer Networks,TCP/IP,66,2026-10-06
+201,2,Operating Systems,Deadlock,55,2026-10-11
+201,3,Operating Systems,Memory Management,41,2026-10-16
+201,4,DBMS,Transactions,80,2026-10-21
+201,5,Computer Networks,OSI Model,43,2026-10-26
+202,1,DBMS,SQL,59,2026-10-06
+202,2,Operating Systems,Deadlock,25,2026-10-11
+202,3,Data Structures,Trees,94,2026-10-16
+202,4,Algorithms,Sorting,75,2026-10-21
+202,5,DBMS,Transactions,45,2026-10-26
+203,1,Algorithms,Dynamic Programming,85,2026-10-06
+203,2,Operating Systems,Deadlock,98,2026-10-11
+203,3,Computer Networks,TCP/IP,83,2026-10-16
+203,4,Data Structures,Trees,95,2026-10-21
+203,5,Data Structures,Arrays,58,2026-10-26
+204,1,Algorithms,Searching,40,2026-10-06
+204,2,Computer Networks,Routing,34,2026-10-11
+204,3,Operating Systems,Deadlock,36,2026-10-16
+204,4,DBMS,Normalization,78,2026-10-21
+204,5,Algorithms,Searching,94,2026-10-26
+205,1,Computer Networks,Routing,30,2026-10-06
+205,2,Algorithms,Sorting,47,2026-10-11
+205,3,Operating Systems,Deadlock,31,2026-10-16
+205,4,Data Structures,Arrays,50,2026-10-21
+205,5,DBMS,Transactions,60,2026-10-26
+206,1,Algorithms,Dynamic Programming,88,2026-10-06
+206,2,Computer Networks,TCP/IP,93,2026-10-11
+206,3,Algorithms,Searching,79,2026-10-16
+206,4,Operating Systems,Deadlock,62,2026-10-21
+206,5,Algorithms,Searching,59,2026-10-26
+207,1,Computer Networks,OSI Model,53,2026-10-06
+207,2,Operating Systems,Deadlock,65,2026-10-11
+207,3,DBMS,Transactions,95,2026-10-16
+207,4,Computer Networks,Routing,56,2026-10-21
+207,5,Operating Systems,Memory Management,31,2026-10-26
+208,1,DBMS,Normalization,85,2026-10-06
+208,2,Data Structures,Graphs,34,2026-10-11
+208,3,Operating Systems,Scheduling,54,2026-10-16
+208,4,Data Structures,Trees,84,2026-10-21
+208,5,DBMS,Normalization,98,2026-10-26
+209,1,Computer Networks,OSI Model,66,2026-10-06
+209,2,Computer Networks,TCP/IP,56,2026-10-11
+209,3,Computer Networks,TCP/IP,88,2026-10-16
+209,4,Computer Networks,Routing,82,2026-10-21
+209,5,Operating Systems,Memory Management,60,2026-10-26
+210,1,Operating Systems,Memory Management,37,2026-10-06
+210,2,DBMS,Transactions,84,2026-10-11
+210,3,Operating Systems,Deadlock,99,2026-10-16
+210,4,Operating Systems,Deadlock,72,2026-10-21
+210,5,Computer Networks,TCP/IP,62,2026-10-26
+211,1,DBMS,Normalization,64,2026-10-06
+211,2,DBMS,Normalization,81,2026-10-11
+211,3,Operating Systems,Deadlock,86,2026-10-16
+211,4,DBMS,Normalization,41,2026-10-21
+211,5,Algorithms,Searching,64,2026-10-26
+212,1,Operating Systems,Memory Management,45,2026-10-06
+212,2,Operating Systems,Memory Management,53,2026-10-11
+212,3,Operating Systems,Deadlock,41,2026-10-16
+212,4,Operating Systems,Scheduling,69,2026-10-21
+212,5,Operating Systems,Deadlock,97,2026-10-26
+213,1,DBMS,Normalization,28,2026-10-06
+213,2,Operating Systems,Memory Management,44,2026-10-11
+213,3,Computer Networks,TCP/IP,51,2026-10-16
+213,4,Data Structures,Trees,43,2026-10-21
+213,5,Operating Systems,Scheduling,50,2026-10-26
+214,1,Operating Systems,Scheduling,73,2026-10-06
+214,2,Operating Systems,Deadlock,27,2026-10-11
+214,3,Operating Systems,Deadlock,66,2026-10-16
+214,4,Computer Networks,TCP/IP,57,2026-10-21
+214,5,Data Structures,Trees,80,2026-10-26
+215,1,Computer Networks,OSI Model,73,2026-10-06
+215,2,Operating Systems,Memory Management,96,2026-10-11
+215,3,Data Structures,Trees,31,2026-10-16
+215,4,Data Structures,Trees,78,2026-10-21
+215,5,DBMS,Normalization,49,2026-10-26
+216,1,Operating Systems,Scheduling,40,2026-10-06
+216,2,Operating Systems,Deadlock,30,2026-10-11
+216,3,Data Structures,Arrays,67,2026-10-16
+216,4,Operating Systems,Scheduling,95,2026-10-21
+216,5,DBMS,SQL,69,2026-10-26
+217,1,Data Structures,Arrays,91,2026-10-06
+217,2,Data Structures,Trees,50,2026-10-11
+217,3,Computer Networks,Routing,38,2026-10-16
+217,4,Data Structures,Graphs,73,2026-10-21
+217,5,Data Structures,Graphs,68,2026-10-26
+218,1,DBMS,Normalization,50,2026-10-06
+218,2,Algorithms,Searching,97,2026-10-11
+218,3,Algorithms,Dynamic Programming,72,2026-10-16
+218,4,Data Structures,Graphs,44,2026-10-21
+218,5,Computer Networks,Routing,27,2026-10-26
+219,1,Data Structures,Graphs,40,2026-10-06
+219,2,Computer Networks,Routing,68,2026-10-11
+219,3,Algorithms,Searching,30,2026-10-16
+219,4,Algorithms,Searching,42,2026-10-21
+219,5,Data Structures,Arrays,75,2026-10-26
+220,1,Computer Networks,Routing,51,2026-10-06
+220,2,Algorithms,Dynamic Programming,72,2026-10-11
+220,3,Computer Networks,TCP/IP,35,2026-10-16
+220,4,Computer Networks,Routing,93,2026-10-21
+220,5,Algorithms,Sorting,33,2026-10-26
+221,1,Computer Networks,TCP/IP,94,2026-10-06
+221,2,DBMS,SQL,45,2026-10-11
+221,3,Algorithms,Sorting,35,2026-10-16
+221,4,Operating Systems,Deadlock,59,2026-10-21
+221,5,Operating Systems,Scheduling,58,2026-10-26
+222,1,DBMS,SQL,41,2026-10-06
+222,2,DBMS,Transactions,86,2026-10-11
+222,3,Computer Networks,TCP/IP,36,2026-10-16
+222,4,Data Structures,Graphs,37,2026-10-21
+222,5,Operating Systems,Scheduling,28,2026-10-26
+223,1,Operating Systems,Deadlock,43,2026-10-06
+223,2,Operating Systems,Deadlock,98,2026-10-11
+223,3,Operating Systems,Scheduling,32,2026-10-16
+223,4,Algorithms,Dynamic Programming,35,2026-10-21
+223,5,DBMS,Transactions,36,2026-10-26
+224,1,DBMS,SQL,32,2026-10-06
+224,2,Operating Systems,Memory Management,77,2026-10-11
+224,3,Data Structures,Graphs,32,2026-10-16
+224,4,Data Structures,Trees,100,2026-10-21
+224,5,Algorithms,Searching,78,2026-10-26
+225,1,Operating Systems,Deadlock,45,2026-10-06
+225,2,Data Structures,Graphs,63,2026-10-11
+225,3,Data Structures,Arrays,31,2026-10-16
+225,4,DBMS,Normalization,50,2026-10-21
+225,5,Algorithms,Searching,68,2026-10-26
+226,1,Operating Systems,Memory Management,86,2026-10-06
+226,2,Operating Systems,Scheduling,41,2026-10-11
+226,3,Computer Networks,Routing,62,2026-10-16
+226,4,Computer Networks,Routing,96,2026-10-21
+226,5,Algorithms,Searching,81,2026-10-26
+227,1,DBMS,Transactions,42,2026-10-06
+227,2,Data Structures,Trees,100,2026-10-11
+227,3,Operating Systems,Memory Management,98,2026-10-16
+227,4,DBMS,SQL,56,2026-10-21
+227,5,Operating Systems,Scheduling,49,2026-10-26
+228,1,Computer Networks,OSI Model,81,2026-10-06
+228,2,Data Structures,Graphs,55,2026-10-11
+228,3,DBMS,Normalization,26,2026-10-16
+228,4,Operating Systems,Memory Management,57,2026-10-21
+228,5,Algorithms,Searching,59,2026-10-26
+229,1,Computer Networks,Routing,42,2026-10-06
+229,2,Algorithms,Searching,68,2026-10-11
+229,3,Algorithms,Searching,76,2026-10-16
+229,4,DBMS,Transactions,90,2026-10-21
+229,5,Operating Systems,Scheduling,60,2026-10-26
+230,1,DBMS,Transactions,37,2026-10-06
+230,2,DBMS,SQL,43,2026-10-11
+230,3,Operating Systems,Deadlock,43,2026-10-16
+230,4,Operating Systems,Memory Management,78,2026-10-21
+230,5,DBMS,SQL,77,2026-10-26
+231,1,DBMS,SQL,81,2026-10-06
+231,2,Algorithms,Searching,54,2026-10-11
+231,3,Algorithms,Dynamic Programming,53,2026-10-16
+231,4,Computer Networks,Routing,82,2026-10-21
+231,5,Operating Systems,Memory Management,100,2026-10-26
+232,1,Operating Systems,Memory Management,52,2026-10-06
+232,2,Operating Systems,Deadlock,100,2026-10-11
+232,3,Operating Systems,Memory Management,31,2026-10-16
+232,4,Operating Systems,Scheduling,100,2026-10-21
+232,5,Data Structures,Trees,56,2026-10-26
+233,1,Algorithms,Sorting,29,2026-10-06
+233,2,Computer Networks,Routing,76,2026-10-11
+233,3,Algorithms,Sorting,77,2026-10-16
+233,4,Operating Systems,Memory Management,31,2026-10-21
+233,5,Data Structures,Arrays,39,2026-10-26
+234,1,Data Structures,Trees,94,2026-10-06
+234,2,DBMS,Transactions,50,2026-10-11
+234,3,Algorithms,Sorting,47,2026-10-16
+234,4,Algorithms,Sorting,64,2026-10-21
+234,5,Algorithms,Dynamic Programming,40,2026-10-26
+235,1,Algorithms,Dynamic Programming,92,2026-10-06
+235,2,Algorithms,Searching,49,2026-10-11
+235,3,Data Structures,Graphs,33,2026-10-16
+235,4,Data Structures,Trees,78,2026-10-21
+235,5,Data Structures,Graphs,52,2026-10-26
+236,1,Computer Networks,TCP/IP,82,2026-10-06
+236,2,Computer Networks,Routing,62,2026-10-11
+236,3,Data Structures,Trees,57,2026-10-16
+236,4,DBMS,Normalization,75,2026-10-21
+236,5,Operating Systems,Memory Management,39,2026-10-26
+237,1,Algorithms,Sorting,78,2026-10-06
+237,2,Computer Networks,Routing,36,2026-10-11
+237,3,Data Structures,Arrays,42,2026-10-16
+237,4,Data Structures,Trees,100,2026-10-21
+237,5,Operating Systems,Deadlock,91,2026-10-26
+238,1,DBMS,Normalization,77,2026-10-06
+238,2,Operating Systems,Memory Management,59,2026-10-11
+238,3,DBMS,Transactions,28,2026-10-16
+238,4,Algorithms,Sorting,69,2026-10-21
+238,5,Operating Systems,Memory Management,52,2026-10-26
+239,1,Operating Systems,Deadlock,25,2026-10-06
+239,2,Operating Systems,Deadlock,59,2026-10-11
+239,3,Operating Systems,Scheduling,63,2026-10-16
+239,4,Operating Systems,Deadlock,86,2026-10-21
+239,5,Data Structures,Trees,83,2026-10-26
+240,1,DBMS,Transactions,26,2026-10-06
+240,2,DBMS,Transactions,55,2026-10-11
+240,3,Computer Networks,OSI Model,79,2026-10-16
+240,4,DBMS,SQL,81,2026-10-21
+240,5,Algorithms,Dynamic Programming,51,2026-10-26
+241,1,Data Structures,Graphs,54,2026-10-06
+241,2,Data Structures,Arrays,73,2026-10-11
+241,3,Data Structures,Arrays,80,2026-10-16
+241,4,Data Structures,Arrays,68,2026-10-21
+241,5,Operating Systems,Memory Management,77,2026-10-26
+242,1,Data Structures,Arrays,47,2026-10-06
+242,2,Data Structures,Trees,45,2026-10-11
+242,3,DBMS,SQL,61,2026-10-16
+242,4,Algorithms,Dynamic Programming,54,2026-10-21
+242,5,Algorithms,Searching,86,2026-10-26
+243,1,Data Structures,Arrays,68,2026-10-06
+243,2,DBMS,Normalization,92,2026-10-11
+243,3,Computer Networks,Routing,90,2026-10-16
+243,4,Algorithms,Dynamic Programming,34,2026-10-21
+243,5,Operating Systems,Deadlock,93,2026-10-26
+244,1,Operating Systems,Scheduling,34,2026-10-06
+244,2,Computer Networks,OSI Model,45,2026-10-11
+244,3,DBMS,Normalization,54,2026-10-16
+244,4,Algorithms,Sorting,33,2026-10-21
+244,5,DBMS,Normalization,82,2026-10-26
+245,1,DBMS,SQL,76,2026-10-06
+245,2,Algorithms,Searching,67,2026-10-11
+245,3,Computer Networks,Routing,57,2026-10-16
+245,4,Algorithms,Searching,86,2026-10-21
+245,5,Algorithms,Dynamic Programming,73,2026-10-26
+246,1,Data Structures,Graphs,34,2026-10-06
+246,2,DBMS,Normalization,95,2026-10-11
+246,3,Operating Systems,Memory Management,45,2026-10-16
+246,4,Data Structures,Arrays,80,2026-10-21
+246,5,Data Structures,Graphs,78,2026-10-26
+247,1,DBMS,Normalization,45,2026-10-06
+247,2,Operating Systems,Memory Management,94,2026-10-11
+247,3,DBMS,Normalization,43,2026-10-16
+247,4,DBMS,Normalization,27,2026-10-21
+247,5,Operating Systems,Deadlock,64,2026-10-26
+248,1,Computer Networks,TCP/IP,79,2026-10-06
+248,2,Data Structures,Trees,80,2026-10-11
+248,3,Computer Networks,TCP/IP,97,2026-10-16
+248,4,DBMS,Normalization,90,2026-10-21
+248,5,Computer Networks,OSI Model,31,2026-10-26
+249,1,Operating Systems,Scheduling,83,2026-10-06
+249,2,Data Structures,Trees,41,2026-10-11
+249,3,Computer Networks,OSI Model,26,2026-10-16
+249,4,Data Structures,Arrays,41,2026-10-21
+249,5,Algorithms,Dynamic Programming,95,2026-10-26
+250,1,DBMS,Transactions,60,2026-10-06
+250,2,Algorithms,Searching,49,2026-10-11
+250,3,Algorithms,Searching,100,2026-10-16
+250,4,Data Structures,Trees,97,2026-10-21
+250,5,Data Structures,Arrays,48,2026-10-26
+251,1,Algorithms,Searching,66,2026-10-06
+251,2,DBMS,Transactions,36,2026-10-11
+251,3,Operating Systems,Deadlock,54,2026-10-16
+251,4,Computer Networks,OSI Model,47,2026-10-21
+251,5,DBMS,Normalization,56,2026-10-26
+252,1,Data Structures,Trees,39,2026-10-06
+252,2,Data Structures,Trees,59,2026-10-11
+252,3,Computer Networks,OSI Model,100,2026-10-16
+252,4,Data Structures,Trees,73,2026-10-21
+252,5,Algorithms,Sorting,34,2026-10-26
+253,1,Computer Networks,OSI Model,86,2026-10-06
+253,2,Data Structures,Graphs,42,2026-10-11
+253,3,Computer Networks,Routing,63,2026-10-16
+253,4,DBMS,Normalization,68,2026-10-21
+253,5,Operating Systems,Memory Management,60,2026-10-26
+254,1,Operating Systems,Scheduling,83,2026-10-06
+254,2,DBMS,Transactions,97,2026-10-11
+254,3,Computer Networks,OSI Model,29,2026-10-16
+254,4,Data Structures,Graphs,28,2026-10-21
+254,5,Data Structures,Trees,52,2026-10-26
+255,1,Data Structures,Graphs,46,2026-10-06
+255,2,Data Structures,Trees,62,2026-10-11
+255,3,Data Structures,Arrays,25,2026-10-16
+255,4,DBMS,Transactions,36,2026-10-21
+255,5,Operating Systems,Deadlock,74,2026-10-26
+256,1,Operating Systems,Scheduling,36,2026-10-06
+256,2,Operating Systems,Scheduling,98,2026-10-11
+256,3,Data Structures,Graphs,41,2026-10-16
+256,4,Data Structures,Arrays,86,2026-10-21
+256,5,DBMS,Transactions,58,2026-10-26
+257,1,Operating Systems,Scheduling,69,2026-10-06
+257,2,Operating Systems,Memory Management,58,2026-10-11
+257,3,Data Structures,Arrays,94,2026-10-16
+257,4,Operating Systems,Deadlock,56,2026-10-21
+257,5,Computer Networks,OSI Model,98,2026-10-26
+258,1,Computer Networks,OSI Model,100,2026-10-06
+258,2,Algorithms,Sorting,31,2026-10-11
+258,3,Algorithms,Searching,28,2026-10-16
+258,4,Operating Systems,Memory Management,41,2026-10-21
+258,5,Data Structures,Graphs,93,2026-10-26
+259,1,Operating Systems,Deadlock,45,2026-10-06
+259,2,Data Structures,Arrays,27,2026-10-11
+259,3,Data Structures,Trees,64,2026-10-16
+259,4,Computer Networks,OSI Model,80,2026-10-21
+259,5,Data Structures,Trees,64,2026-10-26
+260,1,Algorithms,Searching,37,2026-10-06
+260,2,Computer Networks,Routing,41,2026-10-11
+260,3,Data Structures,Trees,26,2026-10-16
+260,4,DBMS,Normalization,76,2026-10-21
+260,5,Operating Systems,Memory Management,46,2026-10-26
+261,1,Computer Networks,OSI Model,91,2026-10-06
+261,2,Computer Networks,Routing,36,2026-10-11
+261,3,Algorithms,Dynamic Programming,63,2026-10-16
+261,4,Algorithms,Sorting,81,2026-10-21
+261,5,Algorithms,Sorting,36,2026-10-26
+262,1,Algorithms,Searching,81,2026-10-06
+262,2,Algorithms,Dynamic Programming,27,2026-10-11
+262,3,Algorithms,Searching,35,2026-10-16
+262,4,Algorithms,Searching,58,2026-10-21
+262,5,Computer Networks,OSI Model,99,2026-10-26
+263,1,Algorithms,Dynamic Programming,90,2026-10-06
+263,2,DBMS,Transactions,56,2026-10-11
+263,3,Data Structures,Trees,74,2026-10-16
+263,4,DBMS,Transactions,63,2026-10-21
+263,5,DBMS,Normalization,35,2026-10-26
+264,1,Algorithms,Dynamic Programming,94,2026-10-06
+264,2,Operating Systems,Scheduling,96,2026-10-11
+264,3,Algorithms,Sorting,76,2026-10-16
+264,4,DBMS,SQL,29,2026-10-21
+264,5,Operating Systems,Scheduling,61,2026-10-26
+265,1,Computer Networks,OSI Model,88,2026-10-06
+265,2,Operating Systems,Memory Management,66,2026-10-11
+265,3,Computer Networks,Routing,40,2026-10-16
+265,4,Computer Networks,Routing,52,2026-10-21
+265,5,Operating Systems,Scheduling,37,2026-10-26
+266,1,DBMS,Transactions,93,2026-10-06
+266,2,Data Structures,Trees,69,2026-10-11
+266,3,Data Structures,Trees,82,2026-10-16
+266,4,Algorithms,Dynamic Programming,50,2026-10-21
+266,5,Operating Systems,Memory Management,77,2026-10-26
+267,1,Computer Networks,Routing,93,2026-10-06
+267,2,Data Structures,Graphs,77,2026-10-11
+267,3,Operating Systems,Memory Management,43,2026-10-16
+267,4,DBMS,Normalization,78,2026-10-21
+267,5,Algorithms,Searching,75,2026-10-26
+268,1,Data Structures,Graphs,27,2026-10-06
+268,2,Algorithms,Dynamic Programming,82,2026-10-11
+268,3,Computer Networks,OSI Model,45,2026-10-16
+268,4,Operating Systems,Memory Management,60,2026-10-21
+268,5,Computer Networks,OSI Model,89,2026-10-26
+269,1,Computer Networks,OSI Model,55,2026-10-06
+269,2,Data Structures,Arrays,25,2026-10-11
+269,3,DBMS,Transactions,91,2026-10-16
+269,4,Computer Networks,Routing,88,2026-10-21
+269,5,Operating Systems,Deadlock,33,2026-10-26
+270,1,Operating Systems,Scheduling,84,2026-10-06
+270,2,Algorithms,Dynamic Programming,34,2026-10-11
+270,3,Operating Systems,Scheduling,73,2026-10-16
+270,4,DBMS,Transactions,98,2026-10-21
+270,5,Algorithms,Searching,85,2026-10-26
+271,1,Algorithms,Sorting,50,2026-10-06
+271,2,Algorithms,Searching,39,2026-10-11
+271,3,Computer Networks,TCP/IP,40,2026-10-16
+271,4,Algorithms,Dynamic Programming,76,2026-10-21
+271,5,Algorithms,Dynamic Programming,45,2026-10-26
+272,1,Operating Systems,Scheduling,51,2026-10-06
+272,2,Operating Systems,Scheduling,86,2026-10-11
+272,3,Computer Networks,Routing,70,2026-10-16
+272,4,DBMS,Transactions,96,2026-10-21
+272,5,DBMS,Normalization,95,2026-10-26
+273,1,Algorithms,Dynamic Programming,87,2026-10-06
+273,2,Algorithms,Searching,70,2026-10-11
+273,3,Operating Systems,Deadlock,33,2026-10-16
+273,4,Operating Systems,Scheduling,53,2026-10-21
+273,5,Data Structures,Trees,61,2026-10-26
+274,1,DBMS,Normalization,52,2026-10-06
+274,2,Algorithms,Sorting,97,2026-10-11
+274,3,DBMS,Transactions,53,2026-10-16
+274,4,Computer Networks,TCP/IP,67,2026-10-21
+274,5,Data Structures,Arrays,29,2026-10-26
+275,1,Operating Systems,Memory Management,66,2026-10-06
+275,2,Data Structures,Trees,51,2026-10-11
+275,3,Operating Systems,Scheduling,90,2026-10-16
+275,4,DBMS,Normalization,51,2026-10-21
+275,5,DBMS,Transactions,98,2026-10-26
+276,1,Operating Systems,Deadlock,78,2026-10-06
+276,2,Algorithms,Dynamic Programming,30,2026-10-11
+276,3,Algorithms,Searching,94,2026-10-16
+276,4,Algorithms,Searching,82,2026-10-21
+276,5,Operating Systems,Scheduling,26,2026-10-26
+277,1,Data Structures,Graphs,61,2026-10-06
+277,2,Data Structures,Arrays,48,2026-10-11
+277,3,Data Structures,Trees,89,2026-10-16
+277,4,DBMS,Transactions,25,2026-10-21
+277,5,Algorithms,Sorting,27,2026-10-26
+278,1,Computer Networks,Routing,88,2026-10-06
+278,2,Data Structures,Trees,50,2026-10-11
+278,3,Algorithms,Sorting,48,2026-10-16
+278,4,Operating Systems,Memory Management,48,2026-10-21
+278,5,Data Structures,Arrays,78,2026-10-26
+279,1,DBMS,SQL,35,2026-10-06
+279,2,DBMS,Transactions,92,2026-10-11
+279,3,Computer Networks,TCP/IP,37,2026-10-16
+279,4,Operating Systems,Memory Management,65,2026-10-21
+279,5,Operating Systems,Scheduling,95,2026-10-26
+280,1,Computer Networks,OSI Model,27,2026-10-06
+280,2,Data Structures,Arrays,73,2026-10-11
+280,3,Operating Systems,Deadlock,72,2026-10-16
+280,4,Operating Systems,Deadlock,95,2026-10-21
+280,5,Data Structures,Graphs,60,2026-10-26
+281,1,Data Structures,Trees,25,2026-10-06
+281,2,Data Structures,Arrays,54,2026-10-11
+281,3,Data Structures,Trees,79,2026-10-16
+281,4,DBMS,SQL,89,2026-10-21
+281,5,Algorithms,Dynamic Programming,46,2026-10-26
+282,1,Computer Networks,TCP/IP,77,2026-10-06
+282,2,Data Structures,Trees,74,2026-10-11
+282,3,DBMS,SQL,46,2026-10-16
+282,4,Operating Systems,Deadlock,68,2026-10-21
+282,5,Algorithms,Searching,41,2026-10-26
+283,1,Data Structures,Arrays,97,2026-10-06
+283,2,DBMS,Normalization,26,2026-10-11
+283,3,Data Structures,Graphs,38,2026-10-16
+283,4,Computer Networks,TCP/IP,82,2026-10-21
+283,5,Operating Systems,Memory Management,75,2026-10-26
+284,1,Data Structures,Graphs,65,2026-10-06
+284,2,Computer Networks,OSI Model,40,2026-10-11
+284,3,Data Structures,Trees,31,2026-10-16
+284,4,Data Structures,Arrays,29,2026-10-21
+284,5,DBMS,SQL,56,2026-10-26
+285,1,Operating Systems,Memory Management,93,2026-10-06
+285,2,Algorithms,Searching,33,2026-10-11
+285,3,DBMS,Normalization,42,2026-10-16
+285,4,DBMS,SQL,81,2026-10-21
+285,5,Algorithms,Sorting,49,2026-10-26
+286,1,Operating Systems,Deadlock,28,2026-10-06
+286,2,Operating Systems,Scheduling,81,2026-10-11
+286,3,DBMS,Transactions,99,2026-10-16
+286,4,Computer Networks,OSI Model,86,2026-10-21
+286,5,Operating Systems,Scheduling,69,2026-10-26
+287,1,Operating Systems,Scheduling,82,2026-10-06
+287,2,Data Structures,Graphs,81,2026-10-11
+287,3,Algorithms,Dynamic Programming,76,2026-10-16
+287,4,Algorithms,Searching,29,2026-10-21
+287,5,Algorithms,Dynamic Programming,69,2026-10-26
+288,1,DBMS,SQL,56,2026-10-06
+288,2,DBMS,SQL,91,2026-10-11
+288,3,Operating Systems,Deadlock,27,2026-10-16
+288,4,Operating Systems,Deadlock,54,2026-10-21
+288,5,DBMS,SQL,26,2026-10-26
+289,1,Computer Networks,Routing,92,2026-10-06
+289,2,DBMS,Transactions,37,2026-10-11
+289,3,Data Structures,Arrays,79,2026-10-16
+289,4,DBMS,SQL,85,2026-10-21
+289,5,DBMS,Transactions,71,2026-10-26
+290,1,Operating Systems,Scheduling,93,2026-10-06
+290,2,Operating Systems,Scheduling,68,2026-10-11
+290,3,Operating Systems,Memory Management,58,2026-10-16
+290,4,Algorithms,Searching,95,2026-10-21
+290,5,Computer Networks,TCP/IP,27,2026-10-26
+291,1,Operating Systems,Deadlock,48,2026-10-06
+291,2,Algorithms,Searching,67,2026-10-11
+291,3,Data Structures,Graphs,73,2026-10-16
+291,4,Operating Systems,Deadlock,90,2026-10-21
+291,5,Computer Networks,OSI Model,42,2026-10-26
+292,1,Algorithms,Searching,68,2026-10-06
+292,2,Algorithms,Dynamic Programming,54,2026-10-11
+292,3,Operating Systems,Deadlock,97,2026-10-16
+292,4,Computer Networks,TCP/IP,43,2026-10-21
+292,5,Algorithms,Dynamic Programming,96,2026-10-26
+293,1,Computer Networks,OSI Model,51,2026-10-06
+293,2,Operating Systems,Memory Management,86,2026-10-11
+293,3,Computer Networks,Routing,66,2026-10-16
+293,4,Algorithms,Dynamic Programming,84,2026-10-21
+293,5,DBMS,Normalization,40,2026-10-26
+294,1,Operating Systems,Deadlock,93,2026-10-06
+294,2,DBMS,SQL,29,2026-10-11
+294,3,Algorithms,Sorting,47,2026-10-16
+294,4,DBMS,Transactions,42,2026-10-21
+294,5,Operating Systems,Deadlock,54,2026-10-26
+295,1,Operating Systems,Deadlock,63,2026-10-06
+295,2,DBMS,SQL,72,2026-10-11
+295,3,DBMS,Normalization,62,2026-10-16
+295,4,Operating Systems,Deadlock,30,2026-10-21
+295,5,Operating Systems,Scheduling,42,2026-10-26
+296,1,Computer Networks,TCP/IP,96,2026-10-06
+296,2,Data Structures,Graphs,41,2026-10-11
+296,3,Algorithms,Searching,94,2026-10-16
+296,4,Operating Systems,Memory Management,36,2026-10-21
+296,5,Computer Networks,Routing,46,2026-10-26
+297,1,Computer Networks,OSI Model,72,2026-10-06
+297,2,Operating Systems,Deadlock,37,2026-10-11
+297,3,Algorithms,Sorting,34,2026-10-16
+297,4,Algorithms,Dynamic Programming,33,2026-10-21
+297,5,Data Structures,Graphs,49,2026-10-26
+298,1,Algorithms,Searching,75,2026-10-06
+298,2,Operating Systems,Scheduling,59,2026-10-11
+298,3,Computer Networks,OSI Model,83,2026-10-16
+298,4,DBMS,Transactions,91,2026-10-21
+298,5,Operating Systems,Memory Management,97,2026-10-26
+299,1,Data Structures,Trees,91,2026-10-06
+299,2,Computer Networks,TCP/IP,92,2026-10-11
+299,3,Algorithms,Sorting,87,2026-10-16
+299,4,Algorithms,Searching,36,2026-10-21
+299,5,Algorithms,Sorting,26,2026-10-26
+300,1,Algorithms,Sorting,72,2026-10-06
+300,2,Computer Networks,Routing,35,2026-10-11
+300,3,Operating Systems,Scheduling,53,2026-10-16
+300,4,Computer Networks,Routing,39,2026-10-21
+300,5,Data Structures,Arrays,66,2026-10-26
+301,1,DBMS,Transactions,98,2026-10-06
+301,2,DBMS,Transactions,26,2026-10-11
+301,3,Operating Systems,Scheduling,55,2026-10-16
+301,4,Computer Networks,Routing,53,2026-10-21
+301,5,Computer Networks,Routing,49,2026-10-26
+302,1,DBMS,Normalization,91,2026-10-06
+302,2,Operating Systems,Scheduling,33,2026-10-11
+302,3,Algorithms,Sorting,89,2026-10-16
+302,4,Algorithms,Dynamic Programming,94,2026-10-21
+302,5,Data Structures,Trees,41,2026-10-26
+303,1,Computer Networks,Routing,27,2026-10-06
+303,2,Data Structures,Arrays,100,2026-10-11
+303,3,Operating Systems,Scheduling,54,2026-10-16
+303,4,Algorithms,Sorting,35,2026-10-21
+303,5,Algorithms,Dynamic Programming,90,2026-10-26
+304,1,DBMS,Transactions,70,2026-10-06
+304,2,Algorithms,Dynamic Programming,84,2026-10-11
+304,3,Computer Networks,OSI Model,26,2026-10-16
+304,4,DBMS,Transactions,26,2026-10-21
+304,5,Algorithms,Sorting,82,2026-10-26
+305,1,Algorithms,Sorting,44,2026-10-06
+305,2,Algorithms,Searching,44,2026-10-11
+305,3,Operating Systems,Deadlock,26,2026-10-16
+305,4,DBMS,SQL,94,2026-10-21
+305,5,DBMS,Normalization,91,2026-10-26
+306,1,DBMS,Normalization,75,2026-10-06
+306,2,Algorithms,Sorting,43,2026-10-11
+306,3,Data Structures,Trees,81,2026-10-16
+306,4,Computer Networks,OSI Model,100,2026-10-21
+306,5,Algorithms,Searching,46,2026-10-26
+307,1,Algorithms,Sorting,71,2026-10-06
+307,2,Computer Networks,TCP/IP,55,2026-10-11
+307,3,Algorithms,Searching,57,2026-10-16
+307,4,Operating Systems,Scheduling,100,2026-10-21
+307,5,Algorithms,Sorting,63,2026-10-26
+308,1,DBMS,SQL,71,2026-10-06
+308,2,Data Structures,Trees,74,2026-10-11
+308,3,Algorithms,Dynamic Programming,39,2026-10-16
+308,4,Data Structures,Trees,87,2026-10-21
+308,5,Algorithms,Searching,65,2026-10-26
+309,1,Operating Systems,Scheduling,73,2026-10-06
+309,2,Operating Systems,Memory Management,28,2026-10-11
+309,3,Operating Systems,Deadlock,84,2026-10-16
+309,4,Computer Networks,Routing,53,2026-10-21
+309,5,Algorithms,Searching,73,2026-10-26
+310,1,DBMS,Normalization,45,2026-10-06
+310,2,DBMS,Transactions,81,2026-10-11
+310,3,Computer Networks,TCP/IP,82,2026-10-16
+310,4,Algorithms,Searching,43,2026-10-21
+310,5,Algorithms,Dynamic Programming,80,2026-10-26
+311,1,Algorithms,Searching,47,2026-10-06
+311,2,DBMS,Transactions,42,2026-10-11
+311,3,DBMS,Normalization,56,2026-10-16
+311,4,Algorithms,Searching,41,2026-10-21
+311,5,Computer Networks,OSI Model,94,2026-10-26
+312,1,Computer Networks,TCP/IP,58,2026-10-06
+312,2,Data Structures,Trees,92,2026-10-11
+312,3,Operating Systems,Scheduling,35,2026-10-16
+312,4,Computer Networks,Routing,85,2026-10-21
+312,5,Algorithms,Searching,31,2026-10-26
+313,1,Computer Networks,Routing,40,2026-10-06
+313,2,Data Structures,Arrays,45,2026-10-11
+313,3,Operating Systems,Memory Management,41,2026-10-16
+313,4,DBMS,SQL,51,2026-10-21
+313,5,Data Structures,Trees,90,2026-10-26
+314,1,DBMS,Normalization,85,2026-10-06
+314,2,Computer Networks,Routing,79,2026-10-11
+314,3,DBMS,Normalization,94,2026-10-16
+314,4,Algorithms,Searching,71,2026-10-21
+314,5,Algorithms,Searching,38,2026-10-26
+315,1,Operating Systems,Scheduling,95,2026-10-06
+315,2,Operating Systems,Memory Management,83,2026-10-11
+315,3,Algorithms,Searching,41,2026-10-16
+315,4,Data Structures,Graphs,48,2026-10-21
+315,5,Algorithms,Dynamic Programming,49,2026-10-26
+316,1,Computer Networks,Routing,42,2026-10-06
+316,2,Algorithms,Searching,33,2026-10-11
+316,3,Data Structures,Arrays,88,2026-10-16
+316,4,Data Structures,Graphs,54,2026-10-21
+316,5,Algorithms,Dynamic Programming,87,2026-10-26
+317,1,Computer Networks,OSI Model,73,2026-10-06
+317,2,Data Structures,Graphs,43,2026-10-11
+317,3,Data Structures,Arrays,55,2026-10-16
+317,4,Computer Networks,TCP/IP,61,2026-10-21
+317,5,Algorithms,Searching,50,2026-10-26
+318,1,Data Structures,Graphs,39,2026-10-06
+318,2,Data Structures,Graphs,74,2026-10-11
+318,3,Computer Networks,Routing,99,2026-10-16
+318,4,Data Structures,Graphs,32,2026-10-21
+318,5,Algorithms,Dynamic Programming,42,2026-10-26
+319,1,Operating Systems,Scheduling,98,2026-10-06
+319,2,Computer Networks,TCP/IP,35,2026-10-11
+319,3,Data Structures,Arrays,77,2026-10-16
+319,4,Data Structures,Arrays,63,2026-10-21
+319,5,DBMS,Normalization,34,2026-10-26
+320,1,Computer Networks,OSI Model,72,2026-10-06
+320,2,Algorithms,Searching,47,2026-10-11
+320,3,Algorithms,Sorting,28,2026-10-16
+320,4,Data Structures,Graphs,96,2026-10-21
+320,5,DBMS,Normalization,59,2026-10-26
+321,1,Algorithms,Sorting,82,2026-10-06
+321,2,Operating Systems,Deadlock,96,2026-10-11
+321,3,Computer Networks,TCP/IP,67,2026-10-16
+321,4,Operating Systems,Scheduling,91,2026-10-21
+321,5,Data Structures,Trees,90,2026-10-26
+322,1,Operating Systems,Memory Management,47,2026-10-06
+322,2,Algorithms,Sorting,31,2026-10-11
+322,3,Data Structures,Graphs,68,2026-10-16
+322,4,DBMS,SQL,94,2026-10-21
+322,5,Computer Networks,Routing,51,2026-10-26
+323,1,Operating Systems,Deadlock,48,2026-10-06
+323,2,Operating Systems,Memory Management,99,2026-10-11
+323,3,DBMS,SQL,68,2026-10-16
+323,4,Data Structures,Trees,52,2026-10-21
+323,5,Data Structures,Arrays,47,2026-10-26
+324,1,Algorithms,Searching,35,2026-10-06
+324,2,Operating Systems,Memory Management,66,2026-10-11
+324,3,Data Structures,Arrays,48,2026-10-16
+324,4,Operating Systems,Scheduling,77,2026-10-21
+324,5,Data Structures,Arrays,29,2026-10-26
+325,1,DBMS,Normalization,54,2026-10-06
+325,2,Operating Systems,Deadlock,61,2026-10-11
+325,3,Operating Systems,Memory Management,64,2026-10-16
+325,4,Data Structures,Arrays,86,2026-10-21
+325,5,Data Structures,Arrays,77,2026-10-26
+326,1,Operating Systems,Scheduling,28,2026-10-06
+326,2,Operating Systems,Scheduling,49,2026-10-11
+326,3,Data Structures,Trees,91,2026-10-16
+326,4,Data Structures,Arrays,44,2026-10-21
+326,5,Computer Networks,OSI Model,91,2026-10-26
+327,1,Algorithms,Dynamic Programming,58,2026-10-06
+327,2,Operating Systems,Memory Management,82,2026-10-11
+327,3,DBMS,Transactions,65,2026-10-16
+327,4,Algorithms,Searching,49,2026-10-21
+327,5,Data Structures,Graphs,49,2026-10-26
+328,1,Computer Networks,OSI Model,51,2026-10-06
+328,2,Operating Systems,Memory Management,92,2026-10-11
+328,3,Computer Networks,OSI Model,52,2026-10-16
+328,4,Algorithms,Dynamic Programming,57,2026-10-21
+328,5,Operating Systems,Memory Management,54,2026-10-26
+329,1,Computer Networks,TCP/IP,99,2026-10-06
+329,2,Operating Systems,Scheduling,30,2026-10-11
+329,3,Computer Networks,OSI Model,64,2026-10-16
+329,4,Data Structures,Trees,26,2026-10-21
+329,5,DBMS,Transactions,26,2026-10-26
+330,1,Algorithms,Sorting,98,2026-10-06
+330,2,Operating Systems,Memory Management,96,2026-10-11
+330,3,Algorithms,Searching,84,2026-10-16
+330,4,DBMS,Transactions,30,2026-10-21
+330,5,Data Structures,Arrays,43,2026-10-26
+331,1,Computer Networks,TCP/IP,57,2026-10-06
+331,2,Algorithms,Sorting,32,2026-10-11
+331,3,DBMS,SQL,33,2026-10-16
+331,4,Computer Networks,Routing,95,2026-10-21
+331,5,Algorithms,Searching,49,2026-10-26
+332,1,Computer Networks,Routing,79,2026-10-06
+332,2,Operating Systems,Scheduling,46,2026-10-11
+332,3,Computer Networks,OSI Model,59,2026-10-16
+332,4,DBMS,SQL,62,2026-10-21
+332,5,Algorithms,Dynamic Programming,64,2026-10-26
+333,1,Operating Systems,Memory Management,41,2026-10-06
+333,2,DBMS,Transactions,76,2026-10-11
+333,3,Algorithms,Sorting,57,2026-10-16
+333,4,Data Structures,Trees,45,2026-10-21
+333,5,Operating Systems,Deadlock,93,2026-10-26
+334,1,Operating Systems,Scheduling,37,2026-10-06
+334,2,DBMS,Normalization,70,2026-10-11
+334,3,Operating Systems,Deadlock,91,2026-10-16
+334,4,Computer Networks,Routing,49,2026-10-21
+334,5,DBMS,Normalization,35,2026-10-26
+335,1,Data Structures,Arrays,77,2026-10-06
+335,2,Operating Systems,Scheduling,80,2026-10-11
+335,3,DBMS,SQL,28,2026-10-16
+335,4,Algorithms,Searching,36,2026-10-21
+335,5,Computer Networks,TCP/IP,76,2026-10-26
+336,1,Computer Networks,OSI Model,92,2026-10-06
+336,2,Data Structures,Arrays,46,2026-10-11
+336,3,Algorithms,Dynamic Programming,80,2026-10-16
+336,4,DBMS,SQL,88,2026-10-21
+336,5,Computer Networks,OSI Model,36,2026-10-26
+337,1,Computer Networks,OSI Model,86,2026-10-06
+337,2,Operating Systems,Deadlock,79,2026-10-11
+337,3,Data Structures,Trees,48,2026-10-16
+337,4,Data Structures,Trees,26,2026-10-21
+337,5,Algorithms,Dynamic Programming,52,2026-10-26
+338,1,Data Structures,Arrays,39,2026-10-06
+338,2,DBMS,SQL,36,2026-10-11
+338,3,Algorithms,Sorting,47,2026-10-16
+338,4,Computer Networks,TCP/IP,55,2026-10-21
+338,5,Algorithms,Searching,78,2026-10-26
+339,1,Algorithms,Sorting,52,2026-10-06
+339,2,Computer Networks,TCP/IP,71,2026-10-11
+339,3,Computer Networks,Routing,63,2026-10-16
+339,4,Algorithms,Dynamic Programming,32,2026-10-21
+339,5,DBMS,Transactions,57,2026-10-26
+340,1,DBMS,SQL,100,2026-10-06
+340,2,Computer Networks,OSI Model,88,2026-10-11
+340,3,Computer Networks,Routing,44,2026-10-16
+340,4,DBMS,Transactions,32,2026-10-21
+340,5,Algorithms,Sorting,55,2026-10-26
+341,1,Data Structures,Arrays,41,2026-10-06
+341,2,DBMS,Transactions,66,2026-10-11
+341,3,Data Structures,Trees,42,2026-10-16
+341,4,Operating Systems,Memory Management,59,2026-10-21
+341,5,Operating Systems,Scheduling,78,2026-10-26
+342,1,DBMS,SQL,93,2026-10-06
+342,2,Operating Systems,Deadlock,55,2026-10-11
+342,3,Computer Networks,Routing,80,2026-10-16
+342,4,DBMS,Normalization,94,2026-10-21
+342,5,Computer Networks,TCP/IP,47,2026-10-26
+343,1,DBMS,SQL,83,2026-10-06
+343,2,Algorithms,Searching,70,2026-10-11
+343,3,Computer Networks,OSI Model,63,2026-10-16
+343,4,Algorithms,Searching,58,2026-10-21
+343,5,Computer Networks,Routing,57,2026-10-26
+344,1,Computer Networks,Routing,68,2026-10-06
+344,2,Operating Systems,Scheduling,95,2026-10-11
+344,3,Operating Systems,Deadlock,86,2026-10-16
+344,4,DBMS,Normalization,27,2026-10-21
+344,5,Computer Networks,Routing,58,2026-10-26
+345,1,DBMS,SQL,41,2026-10-06
+345,2,Computer Networks,Routing,42,2026-10-11
+345,3,Algorithms,Dynamic Programming,83,2026-10-16
+345,4,Computer Networks,TCP/IP,87,2026-10-21
+345,5,Operating Systems,Memory Management,94,2026-10-26
+346,1,Computer Networks,TCP/IP,86,2026-10-06
+346,2,Operating Systems,Deadlock,41,2026-10-11
+346,3,Data Structures,Trees,64,2026-10-16
+346,4,Computer Networks,OSI Model,77,2026-10-21
+346,5,Computer Networks,OSI Model,71,2026-10-26
+347,1,Operating Systems,Memory Management,63,2026-10-06
+347,2,DBMS,Normalization,36,2026-10-11
+347,3,Algorithms,Searching,95,2026-10-16
+347,4,DBMS,Normalization,60,2026-10-21
+347,5,Algorithms,Sorting,48,2026-10-26
+348,1,DBMS,Transactions,95,2026-10-06
+348,2,DBMS,Transactions,48,2026-10-11
+348,3,Computer Networks,TCP/IP,36,2026-10-16
+348,4,Computer Networks,OSI Model,92,2026-10-21
+348,5,Data Structures,Trees,37,2026-10-26
+349,1,Computer Networks,Routing,63,2026-10-06
+349,2,DBMS,SQL,95,2026-10-11
+349,3,Computer Networks,OSI Model,86,2026-10-16
+349,4,Algorithms,Dynamic Programming,26,2026-10-21
+349,5,DBMS,Transactions,58,2026-10-26
+350,1,Data Structures,Arrays,53,2026-10-06
+350,2,Operating Systems,Deadlock,40,2026-10-11
+350,3,Algorithms,Sorting,45,2026-10-16
+350,4,Data Structures,Arrays,95,2026-10-21
+350,5,Algorithms,Sorting,90,2026-10-26
+351,1,DBMS,SQL,99,2026-10-06
+351,2,Algorithms,Searching,95,2026-10-11
+351,3,DBMS,Transactions,94,2026-10-16
+351,4,Computer Networks,TCP/IP,90,2026-10-21
+351,5,Computer Networks,Routing,94,2026-10-26
+352,1,DBMS,Normalization,61,2026-10-06
+352,2,Algorithms,Searching,95,2026-10-11
+352,3,DBMS,Normalization,89,2026-10-16
+352,4,Computer Networks,Routing,42,2026-10-21
+352,5,Operating Systems,Memory Management,89,2026-10-26
+353,1,Algorithms,Sorting,89,2026-10-06
+353,2,Data Structures,Arrays,55,2026-10-11
+353,3,Computer Networks,TCP/IP,79,2026-10-16
+353,4,Algorithms,Sorting,50,2026-10-21
+353,5,Algorithms,Sorting,49,2026-10-26
+354,1,Operating Systems,Memory Management,29,2026-10-06
+354,2,Data Structures,Graphs,45,2026-10-11
+354,3,Algorithms,Searching,50,2026-10-16
+354,4,Data Structures,Trees,38,2026-10-21
+354,5,Data Structures,Trees,45,2026-10-26
+355,1,Data Structures,Trees,32,2026-10-06
+355,2,Computer Networks,TCP/IP,43,2026-10-11
+355,3,DBMS,SQL,98,2026-10-16
+355,4,Operating Systems,Scheduling,70,2026-10-21
+355,5,DBMS,Transactions,37,2026-10-26
+356,1,DBMS,Normalization,51,2026-10-06
+356,2,DBMS,SQL,48,2026-10-11
+356,3,Computer Networks,OSI Model,87,2026-10-16
+356,4,DBMS,SQL,72,2026-10-21
+356,5,Data Structures,Trees,67,2026-10-26
+357,1,DBMS,Normalization,81,2026-10-06
+357,2,Data Structures,Arrays,81,2026-10-11
+357,3,DBMS,SQL,98,2026-10-16
+357,4,Operating Systems,Memory Management,94,2026-10-21
+357,5,Data Structures,Arrays,47,2026-10-26
+358,1,Computer Networks,Routing,61,2026-10-06
+358,2,DBMS,SQL,74,2026-10-11
+358,3,DBMS,Normalization,96,2026-10-16
+358,4,Computer Networks,Routing,94,2026-10-21
+358,5,Computer Networks,Routing,89,2026-10-26
+359,1,Data Structures,Graphs,60,2026-10-06
+359,2,Operating Systems,Scheduling,35,2026-10-11
+359,3,Data Structures,Graphs,63,2026-10-16
+359,4,Computer Networks,OSI Model,57,2026-10-21
+359,5,Algorithms,Searching,65,2026-10-26
+360,1,Operating Systems,Deadlock,55,2026-10-06
+360,2,Algorithms,Sorting,34,2026-10-11
+360,3,Data Structures,Graphs,39,2026-10-16
+360,4,Computer Networks,OSI Model,55,2026-10-21
+360,5,Computer Networks,OSI Model,99,2026-10-26
+361,1,Algorithms,Searching,62,2026-10-06
+361,2,DBMS,SQL,95,2026-10-11
+361,3,Operating Systems,Scheduling,26,2026-10-16
+361,4,Data Structures,Graphs,67,2026-10-21
+361,5,Operating Systems,Memory Management,62,2026-10-26
+362,1,Operating Systems,Deadlock,35,2026-10-06
+362,2,DBMS,SQL,25,2026-10-11
+362,3,Computer Networks,Routing,44,2026-10-16
+362,4,Algorithms,Dynamic Programming,45,2026-10-21
+362,5,Data Structures,Arrays,36,2026-10-26
+363,1,Data Structures,Graphs,25,2026-10-06
+363,2,DBMS,SQL,60,2026-10-11
+363,3,Algorithms,Dynamic Programming,48,2026-10-16
+363,4,Data Structures,Arrays,79,2026-10-21
+363,5,Algorithms,Sorting,48,2026-10-26
+364,1,Operating Systems,Scheduling,62,2026-10-06
+364,2,DBMS,Normalization,99,2026-10-11
+364,3,Computer Networks,OSI Model,67,2026-10-16
+364,4,Algorithms,Sorting,82,2026-10-21
+364,5,Operating Systems,Deadlock,67,2026-10-26
+365,1,Computer Networks,Routing,83,2026-10-06
+365,2,Operating Systems,Scheduling,100,2026-10-11
+365,3,Operating Systems,Scheduling,56,2026-10-16
+365,4,Operating Systems,Scheduling,25,2026-10-21
+365,5,Algorithms,Searching,26,2026-10-26
+366,1,DBMS,SQL,95,2026-10-06
+366,2,Data Structures,Arrays,33,2026-10-11
+366,3,Operating Systems,Scheduling,73,2026-10-16
+366,4,DBMS,Normalization,77,2026-10-21
+366,5,Computer Networks,TCP/IP,92,2026-10-26
+367,1,DBMS,Normalization,46,2026-10-06
+367,2,Operating Systems,Scheduling,67,2026-10-11
+367,3,DBMS,SQL,72,2026-10-16
+367,4,Algorithms,Sorting,61,2026-10-21
+367,5,Computer Networks,Routing,61,2026-10-26
+368,1,Algorithms,Sorting,88,2026-10-06
+368,2,Operating Systems,Scheduling,86,2026-10-11
+368,3,Algorithms,Sorting,57,2026-10-16
+368,4,Operating Systems,Scheduling,44,2026-10-21
+368,5,Data Structures,Graphs,98,2026-10-26
+369,1,Data Structures,Trees,28,2026-10-06
+369,2,Algorithms,Sorting,42,2026-10-11
+369,3,Algorithms,Dynamic Programming,90,2026-10-16
+369,4,DBMS,SQL,97,2026-10-21
+369,5,Data Structures,Arrays,34,2026-10-26
+370,1,DBMS,SQL,33,2026-10-06
+370,2,Data Structures,Arrays,39,2026-10-11
+370,3,Computer Networks,TCP/IP,93,2026-10-16
+370,4,DBMS,SQL,46,2026-10-21
+370,5,DBMS,Transactions,95,2026-10-26
+371,1,Data Structures,Trees,30,2026-10-06
+371,2,Operating Systems,Memory Management,33,2026-10-11
+371,3,Data Structures,Trees,73,2026-10-16
+371,4,DBMS,Transactions,84,2026-10-21
+371,5,Algorithms,Dynamic Programming,65,2026-10-26
+372,1,Algorithms,Searching,38,2026-10-06
+372,2,Data Structures,Trees,32,2026-10-11
+372,3,Operating Systems,Deadlock,52,2026-10-16
+372,4,Data Structures,Graphs,100,2026-10-21
+372,5,Computer Networks,Routing,66,2026-10-26
+373,1,Algorithms,Sorting,34,2026-10-06
+373,2,Operating Systems,Memory Management,25,2026-10-11
+373,3,Algorithms,Sorting,39,2026-10-16
+373,4,Data Structures,Trees,44,2026-10-21
+373,5,Operating Systems,Memory Management,58,2026-10-26
+374,1,Data Structures,Graphs,72,2026-10-06
+374,2,DBMS,SQL,85,2026-10-11
+374,3,Operating Systems,Scheduling,89,2026-10-16
+374,4,Algorithms,Sorting,29,2026-10-21
+374,5,DBMS,Transactions,47,2026-10-26
+375,1,Algorithms,Dynamic Programming,41,2026-10-06
+375,2,DBMS,SQL,37,2026-10-11
+375,3,Computer Networks,Routing,85,2026-10-16
+375,4,Computer Networks,OSI Model,97,2026-10-21
+375,5,Operating Systems,Deadlock,83,2026-10-26
+376,1,Operating Systems,Deadlock,94,2026-10-06
+376,2,DBMS,Transactions,44,2026-10-11
+376,3,DBMS,SQL,61,2026-10-16
+376,4,DBMS,SQL,49,2026-10-21
+376,5,Computer Networks,TCP/IP,100,2026-10-26
+377,1,Operating Systems,Scheduling,67,2026-10-06
+377,2,Operating Systems,Scheduling,46,2026-10-11
+377,3,Operating Systems,Scheduling,90,2026-10-16
+377,4,Operating Systems,Deadlock,96,2026-10-21
+377,5,Operating Systems,Deadlock,39,2026-10-26
+378,1,Algorithms,Searching,70,2026-10-06
+378,2,Algorithms,Searching,43,2026-10-11
+378,3,Computer Networks,OSI Model,67,2026-10-16
+378,4,Data Structures,Trees,81,2026-10-21
+378,5,Operating Systems,Scheduling,50,2026-10-26
+379,1,DBMS,SQL,55,2026-10-06
+379,2,Operating Systems,Memory Management,92,2026-10-11
+379,3,Algorithms,Sorting,94,2026-10-16
+379,4,Data Structures,Graphs,41,2026-10-21
+379,5,Computer Networks,TCP/IP,75,2026-10-26
+380,1,DBMS,SQL,87,2026-10-06
+380,2,Algorithms,Dynamic Programming,54,2026-10-11
+380,3,DBMS,Transactions,95,2026-10-16
+380,4,Operating Systems,Scheduling,43,2026-10-21
+380,5,Operating Systems,Scheduling,65,2026-10-26
+381,1,Data Structures,Arrays,71,2026-10-06
+381,2,Algorithms,Sorting,90,2026-10-11
+381,3,Operating Systems,Deadlock,52,2026-10-16
+381,4,Algorithms,Dynamic Programming,65,2026-10-21
+381,5,Algorithms,Dynamic Programming,56,2026-10-26
+382,1,Operating Systems,Memory Management,65,2026-10-06
+382,2,Operating Systems,Scheduling,78,2026-10-11
+382,3,Operating Systems,Deadlock,89,2026-10-16
+382,4,DBMS,SQL,79,2026-10-21
+382,5,Data Structures,Arrays,34,2026-10-26
+383,1,Computer Networks,Routing,62,2026-10-06
+383,2,Data Structures,Trees,41,2026-10-11
+383,3,Computer Networks,Routing,99,2026-10-16
+383,4,Algorithms,Sorting,91,2026-10-21
+383,5,Algorithms,Searching,44,2026-10-26
+384,1,Operating Systems,Deadlock,78,2026-10-06
+384,2,Operating Systems,Scheduling,82,2026-10-11
+384,3,Operating Systems,Scheduling,49,2026-10-16
+384,4,Algorithms,Dynamic Programming,96,2026-10-21
+384,5,Data Structures,Arrays,27,2026-10-26
+385,1,Computer Networks,OSI Model,41,2026-10-06
+385,2,Computer Networks,TCP/IP,86,2026-10-11
+385,3,Algorithms,Sorting,35,2026-10-16
+385,4,Data Structures,Arrays,77,2026-10-21
+385,5,Computer Networks,OSI Model,68,2026-10-26
+386,1,Data Structures,Arrays,76,2026-10-06
+386,2,Data Structures,Arrays,97,2026-10-11
+386,3,Data Structures,Trees,72,2026-10-16
+386,4,Operating Systems,Scheduling,63,2026-10-21
+386,5,Data Structures,Graphs,43,2026-10-26
+387,1,Computer Networks,TCP/IP,82,2026-10-06
+387,2,Data Structures,Trees,90,2026-10-11
+387,3,Operating Systems,Scheduling,82,2026-10-16
+387,4,DBMS,Normalization,38,2026-10-21
+387,5,Algorithms,Dynamic Programming,57,2026-10-26
+388,1,DBMS,SQL,86,2026-10-06
+388,2,Algorithms,Searching,71,2026-10-11
+388,3,Operating Systems,Deadlock,67,2026-10-16
+388,4,Data Structures,Arrays,36,2026-10-21
+388,5,Data Structures,Graphs,83,2026-10-26
+389,1,Algorithms,Sorting,87,2026-10-06
+389,2,Computer Networks,TCP/IP,75,2026-10-11
+389,3,DBMS,SQL,83,2026-10-16
+389,4,Data Structures,Arrays,47,2026-10-21
+389,5,DBMS,Normalization,86,2026-10-26
+390,1,Data Structures,Graphs,70,2026-10-06
+390,2,DBMS,SQL,68,2026-10-11
+390,3,Computer Networks,TCP/IP,86,2026-10-16
+390,4,DBMS,SQL,81,2026-10-21
+390,5,Computer Networks,Routing,46,2026-10-26
+391,1,Data Structures,Trees,96,2026-10-06
+391,2,DBMS,SQL,97,2026-10-11
+391,3,Operating Systems,Deadlock,29,2026-10-16
+391,4,Algorithms,Sorting,32,2026-10-21
+391,5,Algorithms,Sorting,39,2026-10-26
+392,1,DBMS,SQL,27,2026-10-06
+392,2,Data Structures,Graphs,91,2026-10-11
+392,3,Operating Systems,Deadlock,89,2026-10-16
+392,4,Computer Networks,TCP/IP,51,2026-10-21
+392,5,Computer Networks,TCP/IP,29,2026-10-26
+393,1,Computer Networks,TCP/IP,39,2026-10-06
+393,2,Computer Networks,OSI Model,100,2026-10-11
+393,3,Data Structures,Trees,27,2026-10-16
+393,4,DBMS,SQL,65,2026-10-21
+393,5,Operating Systems,Scheduling,47,2026-10-26
+394,1,Computer Networks,TCP/IP,40,2026-10-06
+394,2,DBMS,Normalization,52,2026-10-11
+394,3,Computer Networks,OSI Model,88,2026-10-16
+394,4,Data Structures,Trees,62,2026-10-21
+394,5,Data Structures,Trees,42,2026-10-26
+395,1,Computer Networks,TCP/IP,37,2026-10-06
+395,2,Algorithms,Dynamic Programming,67,2026-10-11
+395,3,Data Structures,Graphs,92,2026-10-16
+395,4,DBMS,Transactions,34,2026-10-21
+395,5,Data Structures,Graphs,99,2026-10-26
+396,1,Data Structures,Graphs,42,2026-10-06
+396,2,Data Structures,Trees,87,2026-10-11
+396,3,Data Structures,Trees,36,2026-10-16
+396,4,Algorithms,Sorting,35,2026-10-21
+396,5,DBMS,SQL,74,2026-10-26
+397,1,DBMS,Transactions,73,2026-10-06
+397,2,DBMS,Normalization,49,2026-10-11
+397,3,Computer Networks,TCP/IP,29,2026-10-16
+397,4,DBMS,Transactions,43,2026-10-21
+397,5,DBMS,SQL,74,2026-10-26
+398,1,DBMS,SQL,38,2026-10-06
+398,2,DBMS,SQL,82,2026-10-11
+398,3,DBMS,Transactions,71,2026-10-16
+398,4,Data Structures,Graphs,48,2026-10-21
+398,5,Computer Networks,Routing,26,2026-10-26
+399,1,Computer Networks,Routing,96,2026-10-06
+399,2,Data Structures,Arrays,92,2026-10-11
+399,3,Algorithms,Searching,89,2026-10-16
+399,4,Data Structures,Arrays,88,2026-10-21
+399,5,Data Structures,Arrays,37,2026-10-26
+400,1,Data Structures,Graphs,43,2026-10-06
+400,2,Algorithms,Dynamic Programming,83,2026-10-11
+400,3,Operating Systems,Deadlock,51,2026-10-16
+400,4,Data Structures,Trees,76,2026-10-21
+400,5,Data Structures,Trees,41,2026-10-26
+401,1,Data Structures,Graphs,87,2026-10-06
+401,2,Algorithms,Searching,71,2026-10-11
+401,3,DBMS,SQL,100,2026-10-16
+401,4,Algorithms,Searching,68,2026-10-21
+401,5,Operating Systems,Scheduling,44,2026-10-26
+402,1,Operating Systems,Deadlock,34,2026-10-06
+402,2,Operating Systems,Deadlock,63,2026-10-11
+402,3,Data Structures,Graphs,61,2026-10-16
+402,4,Computer Networks,Routing,67,2026-10-21
+402,5,Algorithms,Sorting,80,2026-10-26
+403,1,Data Structures,Arrays,33,2026-10-06
+403,2,Operating Systems,Deadlock,47,2026-10-11
+403,3,Algorithms,Sorting,64,2026-10-16
+403,4,Data Structures,Graphs,48,2026-10-21
+403,5,Computer Networks,Routing,57,2026-10-26
+404,1,DBMS,Normalization,86,2026-10-06
+404,2,Operating Systems,Memory Management,95,2026-10-11
+404,3,Operating Systems,Scheduling,96,2026-10-16
+404,4,Operating Systems,Memory Management,81,2026-10-21
+404,5,Algorithms,Sorting,55,2026-10-26
+405,1,DBMS,Normalization,82,2026-10-06
+405,2,Computer Networks,OSI Model,45,2026-10-11
+405,3,Data Structures,Graphs,59,2026-10-16
+405,4,Algorithms,Sorting,56,2026-10-21
+405,5,Data Structures,Arrays,52,2026-10-26
+406,1,Algorithms,Searching,88,2026-10-06
+406,2,Computer Networks,OSI Model,39,2026-10-11
+406,3,Data Structures,Trees,62,2026-10-16
+406,4,Operating Systems,Scheduling,75,2026-10-21
+406,5,DBMS,Transactions,77,2026-10-26
+407,1,Computer Networks,Routing,82,2026-10-06
+407,2,Algorithms,Sorting,67,2026-10-11
+407,3,Data Structures,Arrays,43,2026-10-16
+407,4,Algorithms,Dynamic Programming,48,2026-10-21
+407,5,Operating Systems,Deadlock,52,2026-10-26
+408,1,Operating Systems,Scheduling,53,2026-10-06
+408,2,DBMS,Normalization,85,2026-10-11
+408,3,Computer Networks,TCP/IP,92,2026-10-16
+408,4,Operating Systems,Deadlock,91,2026-10-21
+408,5,Operating Systems,Deadlock,73,2026-10-26
+409,1,Operating Systems,Memory Management,51,2026-10-06
+409,2,DBMS,SQL,78,2026-10-11
+409,3,DBMS,Normalization,27,2026-10-16
+409,4,Data Structures,Trees,61,2026-10-21
+409,5,Computer Networks,OSI Model,32,2026-10-26
+410,1,Operating Systems,Memory Management,80,2026-10-06
+410,2,Operating Systems,Memory Management,34,2026-10-11
+410,3,DBMS,Normalization,54,2026-10-16
+410,4,Algorithms,Dynamic Programming,95,2026-10-21
+410,5,Computer Networks,OSI Model,76,2026-10-26
+411,1,Operating Systems,Memory Management,47,2026-10-06
+411,2,Algorithms,Searching,62,2026-10-11
+411,3,DBMS,Transactions,99,2026-10-16
+411,4,Algorithms,Sorting,41,2026-10-21
+411,5,Data Structures,Arrays,71,2026-10-26
+412,1,DBMS,Transactions,37,2026-10-06
+412,2,Computer Networks,TCP/IP,48,2026-10-11
+412,3,Algorithms,Sorting,28,2026-10-16
+412,4,DBMS,SQL,42,2026-10-21
+412,5,Computer Networks,TCP/IP,34,2026-10-26
+413,1,DBMS,Transactions,55,2026-10-06
+413,2,Data Structures,Trees,27,2026-10-11
+413,3,Operating Systems,Deadlock,39,2026-10-16
+413,4,Operating Systems,Scheduling,88,2026-10-21
+413,5,Data Structures,Graphs,48,2026-10-26
+414,1,Computer Networks,TCP/IP,63,2026-10-06
+414,2,Operating Systems,Deadlock,28,2026-10-11
+414,3,Algorithms,Sorting,25,2026-10-16
+414,4,Computer Networks,Routing,35,2026-10-21
+414,5,Operating Systems,Memory Management,86,2026-10-26
+415,1,DBMS,Transactions,45,2026-10-06
+415,2,Algorithms,Sorting,35,2026-10-11
+415,3,Computer Networks,Routing,25,2026-10-16
+415,4,Algorithms,Searching,80,2026-10-21
+415,5,Algorithms,Dynamic Programming,71,2026-10-26
+416,1,Operating Systems,Deadlock,82,2026-10-06
+416,2,Data Structures,Graphs,88,2026-10-11
+416,3,Operating Systems,Scheduling,54,2026-10-16
+416,4,Algorithms,Sorting,25,2026-10-21
+416,5,DBMS,Transactions,57,2026-10-26
+417,1,DBMS,SQL,83,2026-10-06
+417,2,Data Structures,Trees,65,2026-10-11
+417,3,DBMS,Normalization,72,2026-10-16
+417,4,DBMS,Transactions,80,2026-10-21
+417,5,DBMS,Normalization,30,2026-10-26
+418,1,DBMS,Normalization,49,2026-10-06
+418,2,DBMS,SQL,27,2026-10-11
+418,3,DBMS,Transactions,84,2026-10-16
+418,4,Computer Networks,TCP/IP,74,2026-10-21
+418,5,Operating Systems,Deadlock,80,2026-10-26
+419,1,DBMS,SQL,60,2026-10-06
+419,2,Algorithms,Sorting,73,2026-10-11
+419,3,Data Structures,Graphs,27,2026-10-16
+419,4,Computer Networks,TCP/IP,74,2026-10-21
+419,5,Data Structures,Trees,74,2026-10-26
+420,1,Algorithms,Searching,66,2026-10-06
+420,2,DBMS,Transactions,44,2026-10-11
+420,3,Algorithms,Searching,89,2026-10-16
+420,4,DBMS,SQL,100,2026-10-21
+420,5,DBMS,SQL,85,2026-10-26
+421,1,Computer Networks,OSI Model,98,2026-10-06
+421,2,Algorithms,Searching,55,2026-10-11
+421,3,Computer Networks,Routing,55,2026-10-16
+421,4,DBMS,Transactions,77,2026-10-21
+421,5,Algorithms,Searching,98,2026-10-26
+422,1,Data Structures,Arrays,76,2026-10-06
+422,2,DBMS,Transactions,99,2026-10-11
+422,3,Data Structures,Graphs,78,2026-10-16
+422,4,DBMS,Normalization,99,2026-10-21
+422,5,Computer Networks,TCP/IP,46,2026-10-26
+423,1,Algorithms,Dynamic Programming,51,2026-10-06
+423,2,Algorithms,Searching,59,2026-10-11
+423,3,Data Structures,Trees,50,2026-10-16
+423,4,DBMS,Transactions,69,2026-10-21
+423,5,Operating Systems,Scheduling,82,2026-10-26
+424,1,Data Structures,Trees,68,2026-10-06
+424,2,Data Structures,Arrays,61,2026-10-11
+424,3,Operating Systems,Deadlock,64,2026-10-16
+424,4,Algorithms,Sorting,33,2026-10-21
+424,5,Algorithms,Dynamic Programming,85,2026-10-26
+425,1,Computer Networks,Routing,96,2026-10-06
+425,2,Computer Networks,Routing,66,2026-10-11
+425,3,Algorithms,Sorting,91,2026-10-16
+425,4,Data Structures,Trees,43,2026-10-21
+425,5,DBMS,Transactions,78,2026-10-26
+426,1,Operating Systems,Deadlock,26,2026-10-06
+426,2,Operating Systems,Scheduling,99,2026-10-11
+426,3,DBMS,SQL,35,2026-10-16
+426,4,DBMS,SQL,31,2026-10-21
+426,5,Algorithms,Searching,71,2026-10-26
+427,1,Data Structures,Trees,43,2026-10-06
+427,2,DBMS,Transactions,30,2026-10-11
+427,3,Computer Networks,TCP/IP,97,2026-10-16
+427,4,Operating Systems,Deadlock,36,2026-10-21
+427,5,Algorithms,Dynamic Programming,83,2026-10-26
+428,1,Data Structures,Arrays,82,2026-10-06
+428,2,DBMS,Normalization,63,2026-10-11
+428,3,Operating Systems,Memory Management,69,2026-10-16
+428,4,Data Structures,Trees,45,2026-10-21
+428,5,Computer Networks,TCP/IP,76,2026-10-26
+429,1,Operating Systems,Memory Management,76,2026-10-06
+429,2,Computer Networks,TCP/IP,68,2026-10-11
+429,3,Operating Systems,Memory Management,93,2026-10-16
+429,4,Data Structures,Graphs,52,2026-10-21
+429,5,Algorithms,Dynamic Programming,77,2026-10-26
+430,1,Data Structures,Arrays,41,2026-10-06
+430,2,Data Structures,Arrays,98,2026-10-11
+430,3,Operating Systems,Memory Management,42,2026-10-16
+430,4,DBMS,Transactions,88,2026-10-21
+430,5,Algorithms,Searching,83,2026-10-26
+431,1,Data Structures,Trees,27,2026-10-06
+431,2,Computer Networks,TCP/IP,53,2026-10-11
+431,3,DBMS,Normalization,85,2026-10-16
+431,4,Algorithms,Searching,28,2026-10-21
+431,5,DBMS,SQL,57,2026-10-26
+432,1,Computer Networks,OSI Model,47,2026-10-06
+432,2,Data Structures,Trees,67,2026-10-11
+432,3,Algorithms,Searching,65,2026-10-16
+432,4,Operating Systems,Memory Management,62,2026-10-21
+432,5,Computer Networks,TCP/IP,53,2026-10-26
+433,1,Data Structures,Arrays,89,2026-10-06
+433,2,Data Structures,Trees,43,2026-10-11
+433,3,DBMS,SQL,81,2026-10-16
+433,4,Computer Networks,Routing,68,2026-10-21
+433,5,DBMS,Normalization,36,2026-10-26
+434,1,Computer Networks,Routing,63,2026-10-06
+434,2,DBMS,Normalization,53,2026-10-11
+434,3,Algorithms,Searching,55,2026-10-16
+434,4,DBMS,SQL,76,2026-10-21
+434,5,Operating Systems,Scheduling,65,2026-10-26
+435,1,Algorithms,Dynamic Programming,83,2026-10-06
+435,2,Operating Systems,Scheduling,73,2026-10-11
+435,3,Data Structures,Arrays,37,2026-10-16
+435,4,DBMS,SQL,93,2026-10-21
+435,5,Computer Networks,TCP/IP,84,2026-10-26
+436,1,Algorithms,Sorting,47,2026-10-06
+436,2,Data Structures,Graphs,80,2026-10-11
+436,3,Algorithms,Dynamic Programming,93,2026-10-16
+436,4,DBMS,Normalization,96,2026-10-21
+436,5,Data Structures,Graphs,93,2026-10-26
+437,1,DBMS,Normalization,93,2026-10-06
+437,2,Operating Systems,Scheduling,50,2026-10-11
+437,3,DBMS,Transactions,78,2026-10-16
+437,4,Operating Systems,Deadlock,57,2026-10-21
+437,5,Data Structures,Trees,69,2026-10-26
+438,1,Operating Systems,Memory Management,86,2026-10-06
+438,2,Data Structures,Graphs,36,2026-10-11
+438,3,DBMS,SQL,97,2026-10-16
+438,4,Computer Networks,OSI Model,33,2026-10-21
+438,5,Operating Systems,Memory Management,40,2026-10-26
+439,1,Operating Systems,Scheduling,27,2026-10-06
+439,2,Operating Systems,Deadlock,48,2026-10-11
+439,3,DBMS,Normalization,26,2026-10-16
+439,4,Algorithms,Dynamic Programming,71,2026-10-21
+439,5,Computer Networks,TCP/IP,56,2026-10-26
+440,1,Algorithms,Dynamic Programming,96,2026-10-06
+440,2,Operating Systems,Deadlock,33,2026-10-11
+440,3,DBMS,Normalization,26,2026-10-16
+440,4,Computer Networks,Routing,44,2026-10-21
+440,5,Operating Systems,Deadlock,94,2026-10-26
+441,1,DBMS,Normalization,92,2026-10-06
+441,2,Data Structures,Arrays,75,2026-10-11
+441,3,Operating Systems,Scheduling,80,2026-10-16
+441,4,Data Structures,Trees,61,2026-10-21
+441,5,Algorithms,Sorting,51,2026-10-26
+442,1,Algorithms,Searching,61,2026-10-06
+442,2,DBMS,Transactions,79,2026-10-11
+442,3,Algorithms,Dynamic Programming,96,2026-10-16
+442,4,DBMS,SQL,84,2026-10-21
+442,5,Operating Systems,Memory Management,80,2026-10-26
+443,1,DBMS,SQL,88,2026-10-06
+443,2,Data Structures,Arrays,67,2026-10-11
+443,3,Computer Networks,TCP/IP,43,2026-10-16
+443,4,Algorithms,Searching,33,2026-10-21
+443,5,DBMS,Normalization,51,2026-10-26
+444,1,DBMS,Normalization,69,2026-10-06
+444,2,Operating Systems,Deadlock,57,2026-10-11
+444,3,DBMS,SQL,65,2026-10-16
+444,4,Algorithms,Dynamic Programming,42,2026-10-21
+444,5,DBMS,SQL,89,2026-10-26
+445,1,Computer Networks,Routing,85,2026-10-06
+445,2,Computer Networks,Routing,49,2026-10-11
+445,3,Operating Systems,Deadlock,79,2026-10-16
+445,4,Computer Networks,Routing,74,2026-10-21
+445,5,Algorithms,Dynamic Programming,57,2026-10-26
+446,1,Operating Systems,Deadlock,81,2026-10-06
+446,2,DBMS,Transactions,77,2026-10-11
+446,3,DBMS,SQL,46,2026-10-16
+446,4,Computer Networks,TCP/IP,40,2026-10-21
+446,5,Data Structures,Trees,88,2026-10-26
+447,1,Computer Networks,TCP/IP,37,2026-10-06
+447,2,Algorithms,Sorting,27,2026-10-11
+447,3,Computer Networks,TCP/IP,74,2026-10-16
+447,4,Data Structures,Trees,74,2026-10-21
+447,5,Algorithms,Dynamic Programming,69,2026-10-26
+448,1,DBMS,SQL,70,2026-10-06
+448,2,Computer Networks,TCP/IP,38,2026-10-11
+448,3,Computer Networks,OSI Model,85,2026-10-16
+448,4,Computer Networks,Routing,34,2026-10-21
+448,5,DBMS,Normalization,40,2026-10-26
+449,1,DBMS,SQL,79,2026-10-06
+449,2,Algorithms,Sorting,73,2026-10-11
+449,3,DBMS,SQL,74,2026-10-16
+449,4,Algorithms,Dynamic Programming,67,2026-10-21
+449,5,Algorithms,Dynamic Programming,89,2026-10-26
+450,1,DBMS,Normalization,65,2026-10-06
+450,2,Computer Networks,Routing,31,2026-10-11
+450,3,Algorithms,Sorting,54,2026-10-16
+450,4,DBMS,SQL,43,2026-10-21
+450,5,Algorithms,Searching,34,2026-10-26
+451,1,Algorithms,Dynamic Programming,56,2026-10-06
+451,2,Algorithms,Dynamic Programming,96,2026-10-11
+451,3,Computer Networks,Routing,60,2026-10-16
+451,4,Operating Systems,Scheduling,55,2026-10-21
+451,5,DBMS,Normalization,29,2026-10-26
+452,1,Algorithms,Sorting,27,2026-10-06
+452,2,Computer Networks,OSI Model,59,2026-10-11
+452,3,Computer Networks,TCP/IP,54,2026-10-16
+452,4,Operating Systems,Memory Management,67,2026-10-21
+452,5,DBMS,SQL,64,2026-10-26
+453,1,DBMS,Normalization,98,2026-10-06
+453,2,Data Structures,Trees,43,2026-10-11
+453,3,Computer Networks,OSI Model,39,2026-10-16
+453,4,DBMS,Normalization,60,2026-10-21
+453,5,DBMS,Normalization,57,2026-10-26
+454,1,Algorithms,Sorting,38,2026-10-06
+454,2,Data Structures,Arrays,71,2026-10-11
+454,3,Data Structures,Graphs,33,2026-10-16
+454,4,Algorithms,Sorting,84,2026-10-21
+454,5,Operating Systems,Memory Management,61,2026-10-26
+455,1,Computer Networks,Routing,90,2026-10-06
+455,2,Algorithms,Sorting,75,2026-10-11
+455,3,Operating Systems,Memory Management,25,2026-10-16
+455,4,Algorithms,Searching,64,2026-10-21
+455,5,Computer Networks,TCP/IP,79,2026-10-26
+456,1,Computer Networks,OSI Model,84,2026-10-06
+456,2,Data Structures,Arrays,96,2026-10-11
+456,3,DBMS,SQL,26,2026-10-16
+456,4,Algorithms,Sorting,83,2026-10-21
+456,5,Computer Networks,Routing,48,2026-10-26
+457,1,Data Structures,Trees,80,2026-10-06
+457,2,Operating Systems,Memory Management,75,2026-10-11
+457,3,Operating Systems,Deadlock,90,2026-10-16
+457,4,DBMS,Normalization,90,2026-10-21
+457,5,Operating Systems,Deadlock,60,2026-10-26
+458,1,DBMS,Normalization,60,2026-10-06
+458,2,DBMS,Transactions,62,2026-10-11
+458,3,DBMS,SQL,85,2026-10-16
+458,4,DBMS,Normalization,42,2026-10-21
+458,5,Operating Systems,Memory Management,72,2026-10-26
+459,1,Algorithms,Dynamic Programming,67,2026-10-06
+459,2,Data Structures,Trees,81,2026-10-11
+459,3,DBMS,SQL,56,2026-10-16
+459,4,Computer Networks,TCP/IP,37,2026-10-21
+459,5,Algorithms,Searching,89,2026-10-26
+460,1,Algorithms,Sorting,59,2026-10-06
+460,2,Operating Systems,Memory Management,95,2026-10-11
+460,3,Computer Networks,TCP/IP,37,2026-10-16
+460,4,Operating Systems,Scheduling,94,2026-10-21
+460,5,Data Structures,Trees,68,2026-10-26
+461,1,Data Structures,Arrays,64,2026-10-06
+461,2,Computer Networks,Routing,37,2026-10-11
+461,3,Algorithms,Sorting,25,2026-10-16
+461,4,Computer Networks,OSI Model,84,2026-10-21
+461,5,DBMS,SQL,27,2026-10-26
+462,1,Computer Networks,TCP/IP,52,2026-10-06
+462,2,DBMS,Transactions,40,2026-10-11
+462,3,Algorithms,Sorting,71,2026-10-16
+462,4,Data Structures,Trees,55,2026-10-21
+462,5,Data Structures,Graphs,42,2026-10-26
+463,1,Data Structures,Arrays,50,2026-10-06
+463,2,DBMS,Transactions,84,2026-10-11
+463,3,Operating Systems,Deadlock,80,2026-10-16
+463,4,Algorithms,Dynamic Programming,26,2026-10-21
+463,5,DBMS,Transactions,85,2026-10-26
+464,1,Computer Networks,OSI Model,87,2026-10-06
+464,2,Operating Systems,Deadlock,63,2026-10-11
+464,3,Operating Systems,Scheduling,100,2026-10-16
+464,4,Computer Networks,OSI Model,85,2026-10-21
+464,5,Data Structures,Trees,92,2026-10-26
+465,1,DBMS,SQL,28,2026-10-06
+465,2,Algorithms,Dynamic Programming,71,2026-10-11
+465,3,DBMS,Transactions,86,2026-10-16
+465,4,DBMS,SQL,86,2026-10-21
+465,5,Computer Networks,Routing,37,2026-10-26
+466,1,Computer Networks,OSI Model,26,2026-10-06
+466,2,Algorithms,Dynamic Programming,78,2026-10-11
+466,3,Operating Systems,Memory Management,69,2026-10-16
+466,4,Data Structures,Trees,66,2026-10-21
+466,5,DBMS,Transactions,39,2026-10-26
+467,1,Data Structures,Arrays,61,2026-10-06
+467,2,Operating Systems,Scheduling,79,2026-10-11
+467,3,Algorithms,Sorting,80,2026-10-16
+467,4,Data Structures,Trees,30,2026-10-21
+467,5,Data Structures,Graphs,42,2026-10-26
+468,1,Data Structures,Arrays,97,2026-10-06
+468,2,Operating Systems,Memory Management,31,2026-10-11
+468,3,DBMS,Transactions,41,2026-10-16
+468,4,Operating Systems,Memory Management,76,2026-10-21
+468,5,Data Structures,Trees,30,2026-10-26
+469,1,Operating Systems,Memory Management,41,2026-10-06
+469,2,Data Structures,Arrays,55,2026-10-11
+469,3,Algorithms,Searching,59,2026-10-16
+469,4,Computer Networks,Routing,86,2026-10-21
+469,5,DBMS,Normalization,51,2026-10-26
+470,1,Computer Networks,TCP/IP,59,2026-10-06
+470,2,Data Structures,Arrays,33,2026-10-11
+470,3,Data Structures,Arrays,45,2026-10-16
+470,4,Data Structures,Arrays,75,2026-10-21
+470,5,Computer Networks,OSI Model,68,2026-10-26
+471,1,DBMS,Transactions,49,2026-10-06
+471,2,Data Structures,Arrays,80,2026-10-11
+471,3,Computer Networks,OSI Model,39,2026-10-16
+471,4,DBMS,Transactions,25,2026-10-21
+471,5,DBMS,Normalization,53,2026-10-26
+472,1,Operating Systems,Memory Management,69,2026-10-06
+472,2,Computer Networks,TCP/IP,95,2026-10-11
+472,3,Data Structures,Arrays,56,2026-10-16
+472,4,Data Structures,Arrays,75,2026-10-21
+472,5,DBMS,Transactions,25,2026-10-26
+473,1,Operating Systems,Memory Management,64,2026-10-06
+473,2,DBMS,SQL,93,2026-10-11
+473,3,Algorithms,Dynamic Programming,30,2026-10-16
+473,4,DBMS,Transactions,43,2026-10-21
+473,5,Algorithms,Sorting,85,2026-10-26
+474,1,Operating Systems,Scheduling,65,2026-10-06
+474,2,DBMS,Normalization,80,2026-10-11
+474,3,Data Structures,Trees,54,2026-10-16
+474,4,Data Structures,Graphs,98,2026-10-21
+474,5,Computer Networks,TCP/IP,26,2026-10-26
+475,1,Data Structures,Arrays,31,2026-10-06
+475,2,Operating Systems,Memory Management,62,2026-10-11
+475,3,Computer Networks,Routing,90,2026-10-16
+475,4,Data Structures,Arrays,67,2026-10-21
+475,5,Operating Systems,Scheduling,95,2026-10-26
+476,1,Data Structures,Trees,48,2026-10-06
+476,2,Data Structures,Arrays,92,2026-10-11
+476,3,Algorithms,Sorting,79,2026-10-16
+476,4,Algorithms,Searching,54,2026-10-21
+476,5,Algorithms,Searching,50,2026-10-26
+477,1,Algorithms,Dynamic Programming,77,2026-10-06
+477,2,Computer Networks,OSI Model,67,2026-10-11
+477,3,Algorithms,Sorting,97,2026-10-16
+477,4,Algorithms,Sorting,78,2026-10-21
+477,5,Algorithms,Sorting,51,2026-10-26
+478,1,Data Structures,Graphs,37,2026-10-06
+478,2,Algorithms,Dynamic Programming,85,2026-10-11
+478,3,Algorithms,Dynamic Programming,65,2026-10-16
+478,4,Algorithms,Dynamic Programming,26,2026-10-21
+478,5,Operating Systems,Deadlock,90,2026-10-26
+479,1,Operating Systems,Memory Management,75,2026-10-06
+479,2,Data Structures,Arrays,49,2026-10-11
+479,3,Operating Systems,Scheduling,35,2026-10-16
+479,4,Algorithms,Sorting,50,2026-10-21
+479,5,DBMS,Transactions,80,2026-10-26
+480,1,Data Structures,Trees,26,2026-10-06
+480,2,Computer Networks,Routing,28,2026-10-11
+480,3,DBMS,Normalization,59,2026-10-16
+480,4,Data Structures,Graphs,96,2026-10-21
+480,5,Operating Systems,Scheduling,55,2026-10-26
+481,1,Operating Systems,Deadlock,98,2026-10-06
+481,2,Computer Networks,Routing,53,2026-10-11
+481,3,DBMS,Transactions,70,2026-10-16
+481,4,Operating Systems,Deadlock,85,2026-10-21
+481,5,Algorithms,Dynamic Programming,94,2026-10-26
+482,1,Computer Networks,Routing,87,2026-10-06
+482,2,Algorithms,Searching,27,2026-10-11
+482,3,Operating Systems,Memory Management,34,2026-10-16
+482,4,Computer Networks,OSI Model,41,2026-10-21
+482,5,DBMS,SQL,50,2026-10-26
+483,1,Computer Networks,TCP/IP,86,2026-10-06
+483,2,Algorithms,Dynamic Programming,59,2026-10-11
+483,3,DBMS,Transactions,49,2026-10-16
+483,4,DBMS,Transactions,36,2026-10-21
+483,5,Algorithms,Sorting,75,2026-10-26
+484,1,Data Structures,Trees,63,2026-10-06
+484,2,Data Structures,Graphs,71,2026-10-11
+484,3,Computer Networks,TCP/IP,80,2026-10-16
+484,4,DBMS,SQL,83,2026-10-21
+484,5,DBMS,Normalization,99,2026-10-26
+485,1,Operating Systems,Deadlock,50,2026-10-06
+485,2,Operating Systems,Deadlock,87,2026-10-11
+485,3,DBMS,SQL,82,2026-10-16
+485,4,Operating Systems,Memory Management,34,2026-10-21
+485,5,Operating Systems,Deadlock,81,2026-10-26
+486,1,Computer Networks,TCP/IP,84,2026-10-06
+486,2,DBMS,SQL,60,2026-10-11
+486,3,DBMS,Transactions,94,2026-10-16
+486,4,Operating Systems,Scheduling,46,2026-10-21
+486,5,Algorithms,Searching,30,2026-10-26
+487,1,Operating Systems,Memory Management,27,2026-10-06
+487,2,Data Structures,Graphs,84,2026-10-11
+487,3,DBMS,Transactions,100,2026-10-16
+487,4,DBMS,Transactions,92,2026-10-21
+487,5,Data Structures,Arrays,34,2026-10-26
+488,1,Computer Networks,TCP/IP,90,2026-10-06
+488,2,Operating Systems,Deadlock,74,2026-10-11
+488,3,Operating Systems,Scheduling,67,2026-10-16
+488,4,Operating Systems,Deadlock,46,2026-10-21
+488,5,Data Structures,Arrays,90,2026-10-26
+489,1,DBMS,Transactions,40,2026-10-06
+489,2,DBMS,SQL,47,2026-10-11
+489,3,Algorithms,Sorting,35,2026-10-16
+489,4,DBMS,Normalization,87,2026-10-21
+489,5,Algorithms,Dynamic Programming,85,2026-10-26
+490,1,Data Structures,Arrays,33,2026-10-06
+490,2,Data Structures,Graphs,29,2026-10-11
+490,3,Algorithms,Searching,29,2026-10-16
+490,4,Computer Networks,TCP/IP,33,2026-10-21
+490,5,Algorithms,Searching,51,2026-10-26
+491,1,Operating Systems,Scheduling,85,2026-10-06
+491,2,Computer Networks,Routing,30,2026-10-11
+491,3,DBMS,Normalization,94,2026-10-16
+491,4,Computer Networks,OSI Model,87,2026-10-21
+491,5,DBMS,Transactions,75,2026-10-26
+492,1,Operating Systems,Deadlock,28,2026-10-06
+492,2,Computer Networks,OSI Model,76,2026-10-11
+492,3,Computer Networks,Routing,58,2026-10-16
+492,4,Data Structures,Graphs,67,2026-10-21
+492,5,Computer Networks,TCP/IP,43,2026-10-26
+493,1,Operating Systems,Deadlock,65,2026-10-06
+493,2,DBMS,Transactions,78,2026-10-11
+493,3,Computer Networks,Routing,83,2026-10-16
+493,4,DBMS,SQL,50,2026-10-21
+493,5,Computer Networks,OSI Model,81,2026-10-26
+494,1,DBMS,Normalization,75,2026-10-06
+494,2,Computer Networks,TCP/IP,49,2026-10-11
+494,3,DBMS,Transactions,34,2026-10-16
+494,4,Data Structures,Trees,95,2026-10-21
+494,5,DBMS,Normalization,85,2026-10-26
+495,1,Operating Systems,Scheduling,55,2026-10-06
+495,2,Data Structures,Graphs,41,2026-10-11
+495,3,Operating Systems,Deadlock,86,2026-10-16
+495,4,Operating Systems,Deadlock,96,2026-10-21
+495,5,Algorithms,Sorting,56,2026-10-26
+496,1,Computer Networks,Routing,59,2026-10-06
+496,2,DBMS,SQL,61,2026-10-11
+496,3,Algorithms,Searching,88,2026-10-16
+496,4,DBMS,Transactions,58,2026-10-21
+496,5,Operating Systems,Memory Management,80,2026-10-26
+497,1,Algorithms,Sorting,36,2026-10-06
+497,2,DBMS,SQL,36,2026-10-11
+497,3,Algorithms,Searching,85,2026-10-16
+497,4,Operating Systems,Deadlock,78,2026-10-21
+497,5,Operating Systems,Memory Management,59,2026-10-26
+498,1,DBMS,SQL,49,2026-10-06
+498,2,Operating Systems,Memory Management,30,2026-10-11
+498,3,Data Structures,Arrays,45,2026-10-16
+498,4,DBMS,Normalization,56,2026-10-21
+498,5,Algorithms,Dynamic Programming,93,2026-10-26
+499,1,Data Structures,Graphs,42,2026-10-06
+499,2,Computer Networks,TCP/IP,80,2026-10-11
+499,3,Operating Systems,Deadlock,86,2026-10-16
+499,4,Algorithms,Dynamic Programming,61,2026-10-21
+499,5,Algorithms,Sorting,27,2026-10-26
+500,1,Computer Networks,OSI Model,52,2026-10-06
+500,2,Data Structures,Graphs,42,2026-10-11
+500,3,Operating Systems,Deadlock,88,2026-10-16
+500,4,Operating Systems,Deadlock,64,2026-10-21
+500,5,DBMS,Normalization,80,2026-10-26

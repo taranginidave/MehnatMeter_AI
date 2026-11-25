@@ -1,0 +1,8 @@
+date,study_hours,sleep_hours,breaks_per_day,stress_level,fatigue_level,consecutive_study_days,burnout_risk,predicted_risk
+2026-11-20,5.0,7.0,3,5,5,3,Low,
+2026-11-23,5.0,7.0,3,5,5,3,Low,
+2026-11-23,16.0,6.0,1,6,4,7,,Low
+2026-11-23,16.0,6.0,1,6,4,30,,Low
+2026-11-25,12.44,4.93,2,7,5,29,,Medium
+2026-11-26,6.0,7.0,3,5,4,5,,Low
+2026-11-26,6.0,7.0,3,5,4,5,,Low

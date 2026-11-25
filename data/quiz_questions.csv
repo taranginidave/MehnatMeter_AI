@@ -1,0 +1,201 @@
+subject,topic,question,option_a,option_b,option_c,option_d,answer,explanation
+Python,Basics,Which keyword defines a function in Python?,function,def,define,fun,B,The def keyword begins a function definition.
+Python,Basics,Which symbol starts a single-line comment?,//,#,<!--,;,B,A hash sign starts a Python comment.
+Python,Basics,Which built-in function displays output?,input(),print(),show(),write(),B,print() writes output to the console.
+Python,Basics,Which function reads user input?,scan(),read(),input(),get(),C,input() reads a line from the user.
+Python,Basics,What is the correct way to begin an if statement?,if x > 0:,if (x > 0) then,if x > 0 do,when x > 0:,A,Python uses a colon after the if condition.
+Python,Basics,Which keyword creates a loop over items?,loop,foreach,for,repeat,C,The for keyword iterates over an iterable.
+Python,Basics,Which keyword exits a loop immediately?,stop,break,exitloop,end,B,break terminates the nearest loop.
+Python,Basics,Which keyword skips to the next loop iteration?,continue,pass,skip,next,A,continue moves control to the next iteration.
+Python,Basics,What does len() return?,The type of an object,The length of an object,The memory address,The largest value,B,len() returns the number of items.
+Python,Basics,Which keyword handles an exception?,catch,except,error,handle,B,except defines an exception handler.
+Python,Basics,Which keyword is used to create a class?,object,struct,class,typeclass,C,class defines a class in Python.
+Python,Basics,Which keyword returns a value from a function?,send,return,yieldonly,give,B,return sends a result back to the caller.
+Python,Basics,What does pass do?,Stops the program,Does nothing as a placeholder,Returns zero,Repeats a loop,B,pass is a null statement used as a placeholder.
+Python,Basics,Which keyword imports a module?,include,using,import,module,C,import makes a module available.
+Python,Basics,Which operator checks equality?,=,==,!=,===,B,== compares two values for equality.
+Python,Basics,Which operator means logical AND?,&&,and,&and,AND,B,The word and is Python's logical AND operator.
+Python,Basics,Which value represents no value?,null,None,void,nil,B,None is Python's null-like value.
+Python,Basics,Which keyword starts an alternative condition?,elseif,else if,elif,otherwise,C,elif checks another condition after if.
+Python,Basics,Which built-in function converts to an integer?,integer(),int(),to_int(),number(),B,int() converts a compatible value to an integer.
+Python,Basics,Python code is commonly stored in files with which extension?,.py,.pt,.pyt,.python,A,Python source files commonly use the .py extension.
+Python,Data Types,Which type stores True or False?,int,str,bool,list,C,bool represents Boolean values True and False.
+Python,Data Types,Which type stores whole numbers?,int,float,str,dict,A,int represents integers.
+Python,Data Types,Which type stores decimal numbers?,float,bool,tuple,set,A,float represents floating-point numbers.
+Python,Data Types,Which type stores text?,str,char,text,word,A,str is Python's string type.
+Python,Data Types,Which collection stores key-value pairs?,list,tuple,dict,set,C,A dictionary stores mappings from keys to values.
+Python,Data Types,Which collection is ordered and mutable?,tuple,list,frozenset,str,B,Lists preserve order and can be modified.
+Python,Data Types,Which collection is immutable?,list,dict,tuple,set,C,Tuples cannot be changed after creation.
+Python,Data Types,Which type stores unique elements?,set,list,tuple,str,A,A set contains distinct elements.
+Python,Data Types,What is type(10) in Python?,str,int,float,bool,B,10 is an integer literal.
+Python,Data Types,What is type(10.0)?,int,float,complex,str,B,10.0 is a floating-point literal.
+Python,Data Types,What is type('10')?,int,float,str,bool,C,Quotes make 10 a string.
+Python,Data Types,Which value is Boolean false?,0.0,False,None of these,'False',B,False is the Boolean false value.
+Python,Data Types,Which function checks an object's type?,typeof(),type(),checktype(),classof(),B,type() returns an object's type.
+Python,Data Types,Which function converts a value to a string?,str(),string(),text(),char(),A,str() creates a string representation.
+Python,Data Types,Which function converts a value to a floating-point number?,decimal(),float(),double(),real(),B,float() converts compatible values to float.
+Python,Data Types,What is the result of bool(0)?,True,False,0,Error,B,Zero is falsy in Python.
+Python,Data Types,What is the result of bool('hello')?,True,False,None,Error,A,A non-empty string is truthy.
+Python,Data Types,Which type is used for complex numbers?,complex,imag,number,comp,A,complex represents numbers with real and imaginary parts.
+Python,Data Types,Which type is returned by range(5)?,list,tuple,range,int,C,range() returns a range object.
+Python,Data Types,Can a dictionary key be a list?,"Yes, always","No, lists are unhashable",Only if empty,Only in Python 2,B,Lists are mutable and cannot be dictionary keys.
+Python,Lists,Which method adds an item to the end of a list?,append(),add(),push(),put(),A,append() adds one item at the end.
+Python,Lists,Which method inserts an item at a given index?,append(),insert(),extend(),index(),B,"insert(index, item) inserts at a specified position."
+Python,Lists,Which method adds items from an iterable?,extend(),appendall(),merge(),join(),A,extend() adds each item from an iterable.
+Python,Lists,Which method removes and returns the last item by default?,remove(),pop(),delete(),discard(),B,"pop() removes and returns an item, last by default."
+Python,Lists,Which method removes the first matching value?,pop(),remove(),clear(),delvalue(),B,remove(value) deletes the first matching value.
+Python,Lists,Which method empties a list?,delete(),clear(),empty(),reset(),B,clear() removes all list elements.
+Python,Lists,"What does len([2,4,6]) return?",2,3,6,12,B,The list contains three elements.
+Python,Lists,What is the index of the first list element?,0,1,-1,Depends on list,A,Python uses zero-based indexing.
+Python,Lists,"What does [10,20,30][1] return?",10,20,30,1,B,Index 1 refers to the second element.
+Python,Lists,Which slice selects the first two elements of a list named a?,a[1:2],a[:2],a[2:],a[-2:],B,a[:2] selects indices 0 and 1.
+Python,Lists,Which operator checks whether an item is in a list?,has,in,contains,inside,B,in tests membership.
+Python,Lists,Which method sorts a list in place?,sorted(),sort(),order(),arrange(),B,list.sort() modifies the list in place.
+Python,Lists,Which built-in returns a sorted new list?,sort(),sorted(),orderlist(),listorder(),B,sorted() returns a new sorted list.
+Python,Lists,How do you reverse a list in place?,reverse(),invert(),flip(),backward(),A,reverse() reverses the list in place.
+Python,Lists,"What does [1,2] + [3] produce?","[1,2,3]","[4,2]","[1,5]",Error,A,The + operator concatenates lists.
+Python,Lists,What does [0] * 3 produce?,"[0,3]","[0,0,0]","[3,0]",Error,B,List repetition repeats the element three times.
+Python,Lists,Which expression creates an empty list?,{},[],(),set(),B,Square brackets create an empty list.
+Python,Lists,Can a Python list contain different data types?,No,Yes,Only numbers,Only strings,B,Lists can contain objects of different types.
+Python,Lists,What does a[-1] access?,First item,Last item,Second item,List length,B,Index -1 refers to the last item.
+Python,Lists,Which statement deletes the element at index 0?,remove(0),del a[0],a.clear(0),a.pop(1),B,del a[0] deletes the element at index zero.
+DBMS,SQL,Which SQL command retrieves data?,INSERT,UPDATE,SELECT,DELETE,C,SELECT retrieves rows from tables.
+DBMS,SQL,Which clause filters rows?,ORDER BY,WHERE,GROUP BY,JOIN,B,WHERE applies a condition to rows.
+DBMS,SQL,Which clause sorts query results?,SORT,ORDER BY,ARRANGE,GROUP BY,B,ORDER BY sorts the result set.
+DBMS,SQL,Which command adds rows to a table?,INSERT,ADD,CREATE,APPEND,A,INSERT adds new records.
+DBMS,SQL,Which command modifies existing rows?,UPDATE,ALTER,CHANGE,MODIFY TABLE,A,UPDATE changes column values in rows.
+DBMS,SQL,Which command removes selected rows?,DROP,DELETE,REMOVE,TRUNCATE COLUMN,B,"DELETE removes rows, often with a WHERE clause."
+DBMS,SQL,Which command creates a table?,MAKE TABLE,CREATE TABLE,NEW TABLE,BUILD TABLE,B,CREATE TABLE defines a new table.
+DBMS,SQL,Which clause groups rows for aggregates?,GROUP BY,ORDER BY,WHERE,HAVING,A,GROUP BY forms groups of rows.
+DBMS,SQL,Which clause filters grouped results?,WHERE,HAVING,ORDER BY,FROM,B,HAVING filters groups after aggregation.
+DBMS,SQL,Which function counts rows?,SUM(),COUNT(),TOTAL(),NUMBER(),B,COUNT() returns a count.
+DBMS,SQL,Which function calculates an average?,AVG(),MEAN(),AVERAGE(),MID(),A,AVG() computes the arithmetic average.
+DBMS,SQL,Which keyword removes duplicate rows from results?,UNIQUE,DISTINCT,DIFFERENT,ONLY,B,DISTINCT removes duplicate result rows.
+DBMS,SQL,Which operator matches a pattern?,MATCH,LIKE,PATTERN,SIMILAR,B,LIKE supports pattern matching with wildcards.
+DBMS,SQL,Which wildcard represents any sequence in LIKE?,_,%,*,?,B,% matches zero or more characters.
+DBMS,SQL,Which keyword combines rows from related tables?,JOIN,MERGE TABLE,CONNECT,LINK,A,JOIN combines rows using a related condition.
+DBMS,SQL,Which join returns matching rows from both tables?,LEFT JOIN,INNER JOIN,FULL JOIN,CROSS JOIN,B,INNER JOIN returns rows that satisfy the join condition.
+DBMS,SQL,Which command changes a table structure?,UPDATE,ALTER TABLE,CHANGE ROW,REPLACE,B,ALTER TABLE modifies table definitions.
+DBMS,SQL,Which command removes a table definition?,DELETE TABLE,DROP TABLE,CLEAR TABLE,ERASE ROW,B,DROP TABLE removes the table object.
+DBMS,SQL,What does NULL usually represent?,Zero,Empty string,Unknown or missing value,False only,C,NULL represents missing or unknown data.
+DBMS,SQL,Which operator checks for NULL?,= NULL,IS NULL,== NULL,NULL?,B,SQL uses IS NULL to test for NULL.
+DBMS,Keys,Which key uniquely identifies each row?,Foreign key,Primary key,Non-key,Duplicate key,B,A primary key uniquely identifies records.
+DBMS,Keys,Which key references a key in another table?,Foreign key,Super key,Alternate key,Partial key,A,A foreign key establishes a relationship between tables.
+DBMS,Keys,A candidate key is what?,Any duplicate column,A minimal attribute set that uniquely identifies a row,Only a foreign key,A nullable field,B,Candidate keys uniquely identify tuples and are minimal.
+DBMS,Keys,What is a super key?,Any attribute set that uniquely identifies a row,Only a primary key,A key in another database,A key with NULL,A,"A super key uniquely identifies rows, possibly with extra attributes."
+DBMS,Keys,What is an alternate key?,A candidate key not selected as primary,A foreign key,A duplicate key,A composite foreign key,A,Alternate keys are candidate keys not chosen as primary.
+DBMS,Keys,A composite key contains how many attributes?,Exactly one,Two or more,No attributes,Only foreign keys,B,A composite key uses multiple attributes.
+DBMS,Keys,Can a primary key contain NULL?,"Yes, always",No,Only one NULL,Only in MySQL,B,Primary key values must be non-NULL.
+DBMS,Keys,Can a table have multiple candidate keys?,Yes,No,Only two,Only if empty,A,A table can have several candidate keys.
+DBMS,Keys,How many primary keys can a table have?,One primary key constraint,Unlimited,Exactly two,None required in all cases,A,"A table has one primary key, which may be composite."
+DBMS,Keys,Which constraint enforces uniqueness?,UNIQUE,CHECK only,DEFAULT,VIEW,A,UNIQUE prevents duplicate values in constrained columns.
+DBMS,Keys,Which constraint disallows NULL?,NOT NULL,DEFAULT,CHECK NULL,FOREIGN,A,NOT NULL requires a value.
+DBMS,Keys,A foreign key can reference which key?,Only a non-key,A primary or unique key,Only a composite key,Any random column,B,Referenced columns generally must be primary or unique.
+DBMS,Keys,What is entity integrity associated with?,Foreign keys,Primary keys not being NULL,Views,Indexes only,B,Entity integrity requires primary key values to be unique and non-NULL.
+DBMS,Keys,What is referential integrity concerned with?,Valid relationships between tables,Sorting rows,Column formatting,Query speed only,A,Referential integrity keeps foreign-key references valid.
+DBMS,Keys,Which key can uniquely identify a row but may contain extra attributes?,Super key,Foreign key,Partial key,Weak key,A,A super key may not be minimal.
+DBMS,Keys,Which key is chosen from candidate keys?,Primary key,Foreign key,Secondary index,Partial key,A,One candidate key is selected as the primary key.
+DBMS,Keys,A weak entity is commonly identified using what?,Only its own partial key,Owner key plus partial key,A random attribute,No key,B,A weak entity's identification includes its owner key and partial key.
+DBMS,Keys,Which key is formed from more than one column?,Simple key,Composite key,Foreign-only key,Null key,B,A composite key consists of multiple attributes.
+DBMS,Keys,What is a simple key?,A key with one attribute,A key with many attributes,A foreign key only,A key with duplicates,A,A simple key uses a single attribute.
+DBMS,Keys,Can a foreign key have repeated values?,No,"Yes, often",Only once per table,Never in relational databases,B,Many rows may reference the same parent row.
+Data Structures,Stack,Which principle does a stack follow?,FIFO,LIFO,Random,Priority only,B,"A stack follows last in, first out."
+Data Structures,Stack,Which operation inserts an item?,Pop,Push,Peek,Dequeue,B,Push adds an item to the top.
+Data Structures,Stack,Which operation removes the top item?,Push,Pop,Enqueue,Front,B,Pop removes the top element.
+Data Structures,Stack,Which operation views the top without removing it?,Peek,Pop,Push,Clear,A,Peek returns the top element without deletion.
+Data Structures,Stack,What is stack underflow?,Pushing to a full stack,Popping from an empty stack,Sorting a stack,A stack becoming larger,B,Underflow occurs when removing from an empty stack.
+Data Structures,Stack,What is stack overflow in a bounded stack?,Attempting to push when full,Popping an empty stack,Viewing top,Clearing stack,A,Overflow occurs when capacity is exceeded.
+Data Structures,Stack,Which structure is commonly used for function calls?,Queue,Call stack,Heap only,Graph,B,Function calls and return addresses are managed using a call stack.
+Data Structures,Stack,Which expression notation is naturally evaluated using a stack?,Infix only,Postfix,CSV,HTML,B,Postfix evaluation uses a stack to hold operands.
+Data Structures,Stack,Which traversal uses a stack in its iterative form?,Depth-first search,Breadth-first search only,Level-order only,Counting sort,A,Iterative DFS commonly uses a stack.
+Data Structures,Stack,What is the time complexity of push in a typical stack?,O(1),O(n),O(log n),O(n log n),A,Push is constant time in a standard stack implementation.
+Data Structures,Stack,What is the time complexity of pop in a typical stack?,O(1),O(n),O(log n),O(n²),A,Pop removes the top element in constant time.
+Data Structures,Stack,Which is a common stack application?,Printer queue,Undo operation,Network routing table only,Database join,B,Undo functionality often stores actions in a stack.
+Data Structures,Stack,"In a stack, where are insertions and deletions made?",Both ends,Top only,Bottom only,Middle only,B,Both push and pop operate at the top.
+Data Structures,Stack,Which structure is used to check balanced parentheses?,Stack,Queue,Array only,Hash table only,A,A stack tracks opening brackets for matching.
+Data Structures,Stack,What is the top of an empty stack?,Always 0,No valid element,Last inserted item,-1 in every implementation,B,An empty stack has no top element; sentinel choices vary.
+Data Structures,Stack,Which operation is not a standard stack operation?,Push,Pop,Peek,Enqueue,D,Enqueue is normally a queue operation.
+Data Structures,Stack,A stack can be implemented using which structures?,Array or linked list,Only graph,Only tree,Only database,A,Arrays and linked lists are common stack implementations.
+Data Structures,Stack,"What order results from pushing A, then B, then C and popping all?",A B C,C B A,B A C,A C B,B,The most recently pushed item C is popped first.
+Data Structures,Stack,Which memory area commonly stores local call frames?,Stack memory,ROM,GPU cache only,Disk partition,A,Call frames are commonly stored on the runtime stack.
+Data Structures,Stack,What is the main stack restriction?,Access any element equally,Access is centered on the top,Must be sorted,Must contain unique items,B,Stack access follows the top-of-stack discipline.
+Data Structures,Queue,Which principle does a queue follow?,LIFO,FIFO,Random,Stack order,B,"A queue follows first in, first out."
+Data Structures,Queue,Which operation inserts into a queue?,Dequeue,Enqueue,Pop,Peek only,B,Enqueue adds an item to the queue.
+Data Structures,Queue,Which operation removes from the front?,Enqueue,Dequeue,Push,InsertTop,B,Dequeue removes the front item.
+Data Structures,Queue,Where is an item usually added in a queue?,Front,Rear,Middle,Anywhere,B,Enqueue typically inserts at the rear.
+Data Structures,Queue,Where is an item usually removed?,Rear,Front,Middle,Anywhere,B,Dequeue removes from the front.
+Data Structures,Queue,Which queue allows insertion and deletion at both ends?,Circular queue,Deque,Priority queue,Simple stack,B,A double-ended queue supports both ends.
+Data Structures,Queue,What does a circular queue solve efficiently?,Sorting,Wasted space from linear queue shifts,Tree balancing,Hash collisions,B,Circular indexing reuses freed positions.
+Data Structures,Queue,"In a priority queue, removal is based on what?",Arrival only,Priority,Alphabetical order always,Random choice,B,Elements are removed according to priority.
+Data Structures,Queue,Which algorithm commonly uses a queue for level-order traversal?,BFS,DFS,Quick sort,Binary search,A,Breadth-first search uses a queue.
+Data Structures,Queue,What is queue overflow?,Removing from empty queue,Adding to a full bounded queue,Viewing front,Sorting queue,B,Overflow occurs when capacity is exceeded.
+Data Structures,Queue,What is queue underflow?,Adding to full queue,Removing from an empty queue,Adding at rear,Rotating queue,B,Underflow occurs when dequeue is attempted on empty queue.
+Data Structures,Queue,What is the time complexity of enqueue in a queue with rear pointer?,O(1),O(n),O(log n),O(n²),A,A rear pointer permits constant-time insertion.
+Data Structures,Queue,What is the time complexity of dequeue with front pointer?,O(1),O(n),O(log n),O(n log n),A,Removing the front element is constant time in a linked queue.
+Data Structures,Queue,Which real-world example resembles FIFO?,Stack of plates,People waiting in a line,Undo history,Recursive calls,B,People in a line are generally served in arrival order.
+Data Structures,Queue,"What is the output order after enqueue 1, 2, 3 and dequeue all?","3,2,1","1,2,3","2,1,3","3,1,2",B,FIFO removes the earliest enqueued item first.
+Data Structures,Queue,Which structure is often used in operating-system scheduling?,Queue,Stack only,Binary search tree only,Matrix,A,Ready and waiting processes are often maintained in queues.
+Data Structures,Queue,What is a deque short for?,Double-ended queue,Dynamic equal queue,Data enqueue,Direct execution queue,A,Deque means double-ended queue.
+Data Structures,Queue,A circular queue connects which positions logically?,Front and rear through wraparound,Only middle nodes,Two separate arrays,Root and leaf,A,Indices wrap around to reuse array slots.
+Data Structures,Queue,Which queue type serves highest-priority tasks first?,Simple FIFO queue,Priority queue,Circular FIFO only,Deque only,B,A priority queue selects according to priority.
+Data Structures,Queue,Which operation reads the front without removing it?,Front/peek,Dequeue,Enqueue,Push,A,Front or peek inspects the next item to be removed.
+Computer Networks,OSI Model,How many layers are in the OSI model?,4,5,7,8,C,The OSI reference model has seven layers.
+Computer Networks,OSI Model,Which is the lowest OSI layer?,Network,Data Link,Physical,Transport,C,The Physical layer is Layer 1.
+Computer Networks,OSI Model,Which OSI layer handles routing?,Session,Network,Presentation,Physical,B,The Network layer handles logical addressing and routing.
+Computer Networks,OSI Model,Which layer provides end-to-end transport?,Transport,Data Link,Application,Physical,A,The Transport layer supports end-to-end delivery.
+Computer Networks,OSI Model,Which layer handles frames and MAC addressing?,Network,Data Link,Session,Application,B,The Data Link layer handles frames and MAC addresses.
+Computer Networks,OSI Model,Which layer transmits raw bits over a medium?,Physical,Transport,Network,Presentation,A,The Physical layer transmits bits.
+Computer Networks,OSI Model,Which layer is closest to the user?,Physical,Application,Data Link,Network,B,The Application layer provides network services to applications.
+Computer Networks,OSI Model,Which layer is responsible for data representation and encryption functions in the classic model?,Presentation,Network,Physical,Transport,A,"The Presentation layer handles representation, encoding and related functions."
+Computer Networks,OSI Model,Which layer manages dialog sessions?,Session,Data Link,Network,Physical,A,The Session layer establishes and manages dialogs.
+Computer Networks,OSI Model,What is the PDU at the Data Link layer commonly called?,Bit,Frame,Packet,Segment,B,The Data Link layer uses frames.
+Computer Networks,OSI Model,What is the PDU at the Network layer commonly called?,Frame,Packet,Bit,Message only,B,The Network layer commonly uses packets.
+Computer Networks,OSI Model,What is the PDU at the Transport layer for TCP commonly called?,Frame,Segment,Bit,Signal,B,TCP data is commonly called a segment.
+Computer Networks,OSI Model,Which device primarily operates at Layer 2?,Switch,Repeater,Router,Application server,A,A traditional Ethernet switch forwards frames using MAC addresses.
+Computer Networks,OSI Model,Which device primarily operates at Layer 3?,Hub,Router,Repeater,Layer-1 amplifier,B,Routers forward packets using network-layer addresses.
+Computer Networks,OSI Model,Which layer adds logical IP addressing?,Network,Physical,Session,Presentation,A,IP operates at the Network layer.
+Computer Networks,OSI Model,Which layer uses port numbers?,Transport,Physical,Data Link,Presentation,A,TCP and UDP use port numbers at the Transport layer.
+Computer Networks,OSI Model,Which layer is responsible for error detection in frames?,Data Link,Application,Session,Presentation,A,The Data Link layer commonly performs frame error detection.
+Computer Networks,OSI Model,What is encapsulation?,Removing all headers,Wrapping data with layer-specific headers,Encrypting only,Changing IP to MAC only,B,Each layer adds control information as data moves down the stack.
+Computer Networks,OSI Model,Which order is correct from Layer 7 to Layer 1?,"Application, Presentation, Session, Transport, Network, Data Link, Physical","Physical, Data Link, Network, Transport, Session, Presentation, Application","Application, Session, Network, Transport, Physical, Data Link, Presentation","Transport, Application, Network, Session, Data Link, Physical, Presentation",A,The standard OSI order descends from Application to Physical.
+Computer Networks,OSI Model,Which OSI layer is associated with Ethernet framing?,Data Link,Session,Transport,Application,A,Ethernet framing is a Data Link layer function.
+Operating Systems,Processes,What is a process?,A program in execution,A file only,A compiler keyword,A hardware cable,A,A process is an executing instance of a program.
+Operating Systems,Processes,Which scheduling algorithm serves processes in arrival order?,FCFS,Round Robin,SJF,Priority only,A,"FCFS means First Come, First Served."
+Operating Systems,Processes,Which algorithm assigns a time slice to each process?,FCFS,Round Robin,Non-preemptive SJF,FIFO disk only,B,Round Robin uses a time quantum.
+Operating Systems,Processes,What is a context switch?,Changing source code,Saving and restoring process state,Deleting a process,Formatting memory,B,The OS switches CPU execution between processes.
+Operating Systems,Processes,Which state means a process is waiting for CPU?,Running,Ready,Blocked,Terminated,B,A ready process can run when scheduled.
+Operating Systems,Processes,Which state means a process is waiting for an event or I/O?,Ready,Blocked/Waiting,Running,New,B,A blocked process waits for an event or resource.
+Operating Systems,Processes,What is a PCB?,Process Control Block,Program Code Buffer,Primary Cache Bus,Process Compile Base,A,The PCB stores information needed to manage a process.
+Operating Systems,Processes,Which scheduling type can interrupt a running process?,Preemptive,Non-preemptive only,Batch-only,Static-only,A,Preemptive scheduling can take the CPU away from a process.
+Operating Systems,Processes,What is turnaround time?,Completion time minus arrival time,Waiting time only,CPU burst only,Response time plus arrival time,A,Turnaround time measures total time from arrival to completion.
+Operating Systems,Processes,What is waiting time?,Time spent in ready queue,Total execution time only,Completion time,I/O time only in all cases,A,Waiting time is time spent waiting for CPU in the ready queue.
+Operating Systems,Processes,What is response time?,Time until first response/CPU service,Total completion duration,Only I/O duration,Turnaround minus arrival,A,Response time measures delay until the process first receives service.
+Operating Systems,Processes,Which condition is required for deadlock?,Mutual exclusion,No processes,Only one resource,No waiting,A,Mutual exclusion is one of the four Coffman deadlock conditions.
+Operating Systems,Processes,Which is not a Coffman deadlock condition?,Hold and wait,Circular wait,Preemption always allowed,Mutual exclusion,C,"Deadlock requires no preemption, not preemption always allowed."
+Operating Systems,Processes,What is a thread?,A unit of execution within a process,A whole disk,A file extension,A scheduling algorithm,A,Threads are execution paths within a process.
+Operating Systems,Processes,What is a zombie process?,A process waiting for CPU,A terminated process whose exit status has not been collected,A running kernel thread,A process with no memory,B,A zombie has exited but retains a process-table entry.
+Operating Systems,Processes,What is a parent process?,A process that created another process,Always the oldest process,A process without threads,A device driver,A,A parent process creates child processes.
+Operating Systems,Processes,What does fork() commonly do in Unix-like systems?,Creates a child process,Ends the system,Changes file extension,Runs a SQL query,A,fork() creates a new process by duplicating the calling process context.
+Operating Systems,Processes,What is starvation in scheduling?,A process waits indefinitely for resources/CPU,All processes finish,CPU becomes faster,A process is always running,A,Starvation is indefinite postponement.
+Operating Systems,Processes,Which algorithm can suffer convoy effect?,FCFS,Round Robin always,Random scheduling only,Shortest remaining time only,A,FCFS may cause short jobs to wait behind a long job.
+Operating Systems,Processes,What is the purpose of a scheduler?,Selects processes for execution,Compiles source code,Stores files permanently,Encrypts every process,A,The scheduler decides which ready process receives CPU time.
+Machine Learning,Basics,Which learning method uses labelled training data?,Unsupervised,Supervised,Reinforcement only,Random,B,Supervised learning learns from labelled examples.
+Machine Learning,Basics,Which task predicts a continuous value?,Classification,Regression,Clustering,Association,B,Regression predicts numerical continuous targets.
+Machine Learning,Basics,Which task predicts a category?,Regression,Classification,Dimensionality reduction,Sorting,B,Classification assigns inputs to classes.
+Machine Learning,Basics,Which method groups similar data without labels?,Clustering,Classification,Regression,Supervised learning,A,Clustering discovers groups in unlabeled data.
+Machine Learning,Basics,Which algorithm is commonly used for classification and regression?,Decision tree,Linear search,Bubble sort,DNS,A,Decision trees can perform both classification and regression.
+Machine Learning,Basics,What is overfitting?,Model performs well on training but poorly on unseen data,Model is too simple,Data has no features,Model never trains,A,Overfitting captures noise and fails to generalize.
+Machine Learning,Basics,What is underfitting?,Model is too simple to learn patterns,Model memorizes training data,Model has too many labels,Model predicts perfectly,A,Underfitting occurs when a model cannot capture the underlying pattern.
+Machine Learning,Basics,Why split data into train and test sets?,To evaluate generalization on unseen data,To duplicate records,To remove all labels,To make training slower,A,The test set estimates performance on unseen examples.
+Machine Learning,Basics,What is a feature?,An input variable used by a model,Only the target label,A model error,A database table name,A,Features describe input information.
+Machine Learning,Basics,What is a label in supervised learning?,The target answer,A random feature,The learning rate,The model architecture,A,A label is the known target value.
+Machine Learning,Basics,What does accuracy measure?,Correct predictions divided by total predictions,False positives only,Training time,Number of features,A,Accuracy is the fraction of predictions that are correct.
+Machine Learning,Basics,What is a confusion matrix used for?,Summarizing classification outcomes,Sorting features,Compressing images,Choosing database keys,A,A confusion matrix compares predicted and actual classes.
+Machine Learning,Basics,What is precision?,TP divided by TP plus FP,TP divided by TP plus FN,TN divided by all,FP divided by FN,A,Precision measures how many predicted positives are truly positive.
+Machine Learning,Basics,What is recall?,TP divided by TP plus FN,TP divided by TP plus FP,TN divided by TP,Accuracy only,A,Recall measures how many actual positives are detected.
+Machine Learning,Basics,What is a common purpose of feature scaling?,Put features on comparable numerical scales,Add labels,Delete the target,Guarantee perfect accuracy,A,Scaling prevents features with large magnitudes from dominating some models.
+Machine Learning,Basics,Which algorithm is based on nearest examples?,K-Nearest Neighbors,Naive Bayes only,Linear regression only,Apriori only,A,KNN predicts using nearby training examples.
+Machine Learning,Basics,What does a learning rate control in gradient descent?,Size of parameter updates,Number of classes,Dataset labels,Test-set size,A,The learning rate controls the step size during optimization.
+Machine Learning,Basics,What is a model parameter?,A value learned from training data,A fixed user name,A test label only,A file path,A,Parameters are adjusted by the learning algorithm.
+Machine Learning,Basics,What is cross-validation used for?,Assessing model performance across data splits,Encrypting data,Replacing all testing,Creating labels automatically,A,Cross-validation evaluates stability and helps model selection.
+Machine Learning,Basics,What is data leakage?,Using information unavailable at prediction time during training/evaluation,Cleaning missing values,Splitting data randomly,Reducing model size,A,Leakage makes evaluation overly optimistic by exposing target-related information.
